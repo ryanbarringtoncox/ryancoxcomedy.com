@@ -5,8 +5,9 @@
   tags: "standup, comedy"
   tranding: false
   readTime: "2 min"
+  thumbnail: /images/ryan-cox-ale-raes-fun.jpg
   #thumbnail: /images/ryan-cox-ale-raes.jpg
-  thumbnail: /images/ryan-cox-ale-raes-with-text.png
+  #thumbnail: /images/ryan-cox-ale-raes-with-text.png
   featureImage: /images/blog/blog-single.png
 ---
 

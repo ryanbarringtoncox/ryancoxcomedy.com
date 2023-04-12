@@ -1,0 +1,60 @@
+{{ range $.Site.RegularPages }}
+{{ if eq .Params.featured true }}
+<section class="featured">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <article class="featured-post">
+          <div class="featured-post-thumb">
+            <img src="{{ .Params.thumbnail  | absURL }}" alt="feature-post-thumb"/>
+          </div>
+          <div class="featured-post-content" style="margin-right: 0px; margin-left: 50px">
+            <a href="#about" class="featured-post-title">
+              {{ .Title }}
+            </a>
+            <div class="featured-post-author">
+              <p>
+                Ryan Cox is a comedian’s comedian.  He is also a comedian for people who aren’t comedians.
+                Ryan has performed his unique blend of stand-up all over the Southeast since 2014, with jokes ranging from crafted one-liners
+                to twisted parenting tales to the ghost of Kmart.  Ryan has landed punchlines on big stages like the Orange Peel 
+                and worked alongside national acts like Pete Lee, Sean Finnerty and Jessimae Peluso.
+                You can catch Ryan at the North Carolina Comedy Festival this Fall in 2023.
+              </p>
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+</section>
+<section class="featured">
+  <div class="container">
+    <div id="video" class="row">
+      <div class="col-12">
+        <article class="featured-post">
+          <div class="featured-post-content">
+            <a href="#video" class="featured-post-title">
+              VIDEO
+            </a>
+            <div class="iframe-container">
+              <iframe class="responsive-iframe" src="https://www.youtube.com/embed/yJug66R7_G0?wmode=opaque" scrolling="no" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
+        </article>
+      </div> 
+    </div> 
+  </div> 
+</section>
+<section class="featured">
+  <div class="container">
+    <div id="contact" class="row">
+      <div class="col-12">
+        <article class="featured-post">
+          <div class="featured-post-content">
+            <a class="featured-post-title" href="mailto:ryancoxcomedy@gmail.com">CONTACT: ryancoxcomedy@gmail.com</a>
+          </div>
+        </article>
+      </div> 
+    </div> 
+  </div>
+</section>
+{{ end }} {{ end }}
