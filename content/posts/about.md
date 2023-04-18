@@ -1,5 +1,5 @@
 ---
-  title: "RYAN COX"
+  title: "ABOUT"
   date: 2021-01-13T17:33:14+06:00
   featured: true
   tags: "standup, comedy"

@@ -2,7 +2,7 @@
 <nav class="main-nav navbar navbar-expand-lg">
   <div class="container">
     <a class="navbar-brand" href={{ "" | absURL }}>
-      <img class="logo-main" src={{ .Site.Params.logo | absURL }} style="width: 370px" alt="logo" />
+      <img class="logo-main" src={{ .Site.Params.logo | absURL }} style="width: 370px; @media (max-width:500px){width:300px;}" alt="logo" />
     </a>
     <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#mainNav">
       <span class="icon-bar"></span>
@@ -13,13 +13,16 @@
       <!-- Navigation Links -->
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
+          <a class="nav-link" href="#about">ABOUT</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="#video">VIDEO</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#contact">CONTACT</a>
+          <a class="nav-link" href="#live-shows">LIVE SHOWS</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="http://www.instagram.com/ryancoxjokes" target="_blank">INSTAGRAM</a>
+          <a class="nav-link" href="#contact">CONTACT</a>
         </li>
       </ul>
     </div>
