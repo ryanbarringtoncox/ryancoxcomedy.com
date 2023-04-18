@@ -4,13 +4,23 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <article class="featured-post">
+        <article class="intro-post">
           <div class="featured-post-thumb">
             <img src="{{ .Params.thumbnail  | absURL }}" alt="feature-post-thumb"/>
           </div>
-          <div id="about" class="featured-post-content" style="margin-right: 0px; margin-left: 50px">
+        </article>
+      </div> 
+    </div> 
+  </div>
+</section>
+<section class="featured">
+  <div class="container">
+    <div id="about" class="row">
+      <div class="col-12">
+        <article class="featured-post">
+          <div id="about" class="featured-post-content">
             <a href="#about" class="featured-post-title">
-              {{ .Title }}
+              ABOUT
             </a>
             <div class="featured-post-author">
               <p class="blue-link" >
@@ -43,7 +53,7 @@
 </section>
 <section class="featured">
   <div class="container">
-    <div id="contact" class="row">
+    <div id="live-shows" class="row">
       <div class="col-12">
         <article class="featured-post">
           <div class="featured-post-content">
@@ -59,7 +69,7 @@
 </section>
 <section class="featured">
   <div class="container">
-    <div id="live-shows" class="row">
+    <div id="contact" class="row">
       <div class="col-12">
         <article class="featured-post">
           <div class="featured-post-content">

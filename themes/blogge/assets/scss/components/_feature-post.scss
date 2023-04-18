@@ -13,6 +13,15 @@
   .featured-post-title {
     color: black !important;
     text-decoration: none;
+    text-align: center;
+  }
+  .intro-post {
+    width:100%;
+    display: flex;
+    justify-content: center;
+    .featured-post-thumb {
+      border-radius: 10px;
+    }
   }
   &-post {
     display: flex;
