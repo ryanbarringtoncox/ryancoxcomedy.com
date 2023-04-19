@@ -1,3 +1,21 @@
+body {
+  background-color: #0f0f0f;
+  color: #EFE8C2 !important;
+}
+.main-nav {
+  background-color: #0f0f0f !important;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: #EFE8C2 !important;
+  font-size: 19px !important;
+}
+
+.navbar-brand {
+  color: #ff0000;
+  font-size: 3.25rem; 
+}
+
 .container-fluid {
   width: 100%;
   padding-right: 0px;
@@ -21,3 +39,17 @@
     transform-origin: top;
   }
 }
+
+// .navbar-brand {
+//   height: 100%;
+//   width: auto;
+//   .logo-main {
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+//     bottom: 0;
+//     right: 0;
+//     width: 100%;
+//     height: 100%;  
+//   }
+// }
