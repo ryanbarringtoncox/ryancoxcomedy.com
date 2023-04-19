@@ -17,12 +17,15 @@
     text-decoration: none;
     text-align: center;
   }
+  .featured-post-content {
+    margin-right: 0;
+  }
   .intro-post {
     width:100%;
     display: flex;
     justify-content: center;
     .featured-post-thumb {
-      border-radius: 10px;
+      /*border-radius: 10px;*/
     }
   }
   &-post {
