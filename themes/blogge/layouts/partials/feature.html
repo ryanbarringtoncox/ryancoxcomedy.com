@@ -1,12 +1,12 @@
-{{ range $.Site.RegularPages }}
-{{ if eq .Params.featured true }}
 <section class="featured">
   <div class="container">
     <div class="row">
       <div class="col-12">
         <article class="intro-post">
           <div class="featured-post-thumb">
-            <img src="{{ .Params.thumbnail  | absURL }}" alt="feature-post-thumb"/>
+            {{ with .Site.Params.mainImage }}
+            <img src="{{ .  | absURL }}" alt="feature-post-thumb"/>
+            {{ end }}
           </div>
         </article>
       </div> 
@@ -75,7 +75,7 @@
             <tbody>
               <tr>
                 <td>
-                  09/7/2023
+                  09/07/2023
                   <p></p>
                 </td>
                 <td>
@@ -89,7 +89,7 @@
               </tr>
               <tr>
                 <td>
-                  09/5/2023
+                  09/05/2023
                   <p></p>
                 </td>
                 <td>
@@ -374,4 +374,3 @@
     </div> 
   </div>
 </section>
-{{ end }} {{ end }}

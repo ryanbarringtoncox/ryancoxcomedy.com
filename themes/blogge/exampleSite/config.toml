@@ -32,6 +32,3 @@ theme = "blogge-hugo-theme"
   linkedinUsername = "mary_astor"
   blogTitle = "Articles"
   blogSubTitle = "View the latest news on Blogger"
-
-[taxonomies]
-  tag = "tags"
