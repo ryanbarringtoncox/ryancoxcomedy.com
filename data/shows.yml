@@ -1,0 +1,89 @@
+showObjects:
+  [
+    {
+      "date": "09/07/2023",
+      "venue": "North Carolina Comedy Festival",
+      "city": "Greensboro, NC"
+    },
+    {
+      "date": "09/05/2023",
+      "venue": "North Carolina Comedy Festival",
+      "city": "Greensboro, NC"
+    },
+    {
+      "date": "08/26/2023",
+      "venue": "The Boutiquery",
+      "city": "Richmond, VA"
+    },
+    {
+      "date": "05/18/2023",
+      "venue": "Eurisko Beer Company",
+    },
+    {
+      "date": "05/12/2023",
+      "venue": "Anderby Brewing",
+      "city": "Atlanta, GA"
+    },
+    {
+      "date": "05/10/2023",
+      "venue": "Laughing Skull",
+      "city": "Atlanta, GA"
+    },
+    {
+      "date": "05/05/2023",
+      "venue": "The Boiler Room",
+    },
+    {
+      "date": "04/27/2023",
+      "venue": "Story Parlor",
+    },
+    { "date": "04/21/2023", "venue": "Noble Cider",
+      "city": "Leicester, NC"
+    },
+    {
+      "date": "04/20/2023",
+      "venue": "Shaky's",
+    },
+    {
+      "date": "04/16/2023",
+      "venue": "Catawba Brewing",
+    },
+    {
+      "date": "04/01/2023",
+      "venue": "Don't Tell",
+    },
+    {
+      "date": "03/31/2023",
+      "venue": "Grateful Organic Diner",
+      "city": "Marshall, NC"
+    },
+    {
+      "date": "03/26/2023",
+      "venue": "Ale Rae's",
+      "city": "Knoxville, TN"
+    },
+    {
+      "date": "03/05/2023",
+      "venue": "Catawba Brewing",
+    },
+    {
+      "date": "03/17/2023",
+      "venue": "The Burger Bar",
+    },
+    {
+      "date": "02/16/2023",
+      "venue": "Pulp"
+    },
+    {
+      "date": "01/30/2023",
+      "venue": "The Grey Eagle"
+    },
+    {
+      "date": "01/27/2023",
+      "venue": "Gigi's Underground"
+    },
+    {
+      "date": "01/06/2023",
+      "venue": "rEvolve Vintage"
+    },
+  ]

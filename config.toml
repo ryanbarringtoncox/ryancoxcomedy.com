@@ -14,5 +14,6 @@ theme = "blogge"
   authorPhone = "+33-257634 534"
   instaUsername = "ryancoxjokes"
   googleMapAPI = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
+  [show]
 
 [taxonomies]
