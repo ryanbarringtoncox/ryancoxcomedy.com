@@ -1,4 +1,10 @@
 <head lang="en">
+  <style>
+    html {
+      visibility: hidden;
+      opacity: 0;
+    }
+  </style>
   <meta charset="utf-8" />
   <title>{{ .Title }}</title>
 
@@ -9,6 +15,13 @@
   <meta name="author" content="{{ . }}">
   {{ end }}
   {{ hugo.Generator }}
+
+  <meta property="og:description" content="Official Website for Stand-Up Comedian Ryan Cox" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://ryancoxcomedy.com" />
+  {{ with .Site.Params.featuredImage }}
+  <meta property="og:image" content="{{ .  | absURL }}" />
+  {{ end }}
 
   <link rel="stylesheet" href={{ "plugins/font-awesome/css/font-awesome.min.css" | absURL }} />
   {{ $style := resources.Get "scss/style.scss" | resources.ToCSS | minify}}

@@ -8,6 +8,7 @@ theme = "blogge"
 [params]
   summarylength = 80
   mainImage = "/images/ryan-cox-ale-raes-fun.jpg"
+  featuredImage = "/images/ryan-cox-featured.png"
   author = "ryancoxjokes"
   authorThumb = "images/author.png"
   authorAddress = "Lorem 142 Str., 2352, Ipsum, State, USA"
