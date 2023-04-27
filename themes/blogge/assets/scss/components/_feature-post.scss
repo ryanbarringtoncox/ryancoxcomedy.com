@@ -63,11 +63,9 @@
       height: 100%;
     }
 
-    .youtube-shorts-container {
+    .youtube-short-container {
       display: flex;
-      .youtube-short {
-        
-      }
+      justify-content: center !important;
     }
 
     &-content {
