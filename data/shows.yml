@@ -21,6 +21,11 @@ showObjects:
       "city": "Raleigh, NC"
     },
     {
+      "date": "07/04/2023",
+      "venue": "Central Cinema",
+      "city": "Knoxville, TN"
+    },
+    {
       "date": "05/18/2023",
       "venue": "Eurisko Beer Company",
     },
