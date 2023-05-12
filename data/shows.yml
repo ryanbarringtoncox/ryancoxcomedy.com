@@ -21,14 +21,36 @@ showObjects:
       "city": "Raleigh, NC"
     },
     {
+      "date": "07/25/2023",
+      "venue": "Catawba Brewing",
+    },
+    {
+      "date": "07/08/2023",
+      "venue": "Don't Tell",
+    },
+    {
       "date": "07/04/2023",
       "venue": "Central Cinema",
+      "city": "Knoxville, TN"
+    },
+    {
+      "date": "07/03/2023",
+      "venue": "Don't Tell",
+      "city": "West Asheville",
+    },
+    {
+      "date": "06/18/2023",
+      "venue": "Ale Rae's",
       "city": "Knoxville, TN"
     },
     {
       "date": "06/18/2023",
       "venue": "Geezers Brewery",
       "city": "Knoxville, TN"
+    },
+    {
+      "date": "06/03/2023",
+      "venue": "Don't Tell",
     },
     {
       "date": "05/18/2023",
