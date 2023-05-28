@@ -1,6 +1,11 @@
 showObjects:
   [
     {
+      "date": "09/29/2023",
+      "venue": "The Green Bean",
+      "city": "Greensboro, NC"
+    },
+    {
       "date": "09/07/2023",
       "venue": "North Carolina Comedy Festival",
       "city": "Greensboro, NC"
@@ -21,8 +26,17 @@ showObjects:
       "city": "Raleigh, NC"
     },
     {
+      "date": "08/17/2023",
+      "venue": "Eurisko Beer Company",
+    },
+    {
       "date": "07/25/2023",
       "venue": "Catawba Brewing",
+    },
+    {
+      "date": "07/09/2023",
+      "venue": "Goodnights (NC Funniest Person Contest) ",
+      "city": "Raleigh, NC"
     },
     {
       "date": "07/08/2023",
@@ -53,8 +67,9 @@ showObjects:
       "venue": "Don't Tell",
     },
     {
-      "date": "05/18/2023",
-      "venue": "Eurisko Beer Company",
+      "date": "05/27/2023",
+      "venue": "Comedy Key West",
+      "city": "Key West, FL"
     },
     {
       "date": "05/12/2023",
