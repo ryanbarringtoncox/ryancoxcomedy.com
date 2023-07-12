@@ -1,5 +1,8 @@
-showObjects:
-  [
+showObjects: [ {
+      "date": "11/05/2023",
+      "venue": "Ale Rae's",
+      "city": "Knoxville, TN"
+    },
     {
       "date": "09/29/2023",
       "venue": "The Green Bean",
@@ -26,12 +29,26 @@ showObjects:
       "city": "Raleigh, NC"
     },
     {
+      "date": "08/19/2023",
+      "venue": "eVape Tavern",
+      "city": "Knoxville, TN"
+    },
+    {
       "date": "08/17/2023",
       "venue": "Eurisko Beer Company",
     },
+    { 
+      "date": "07/28/2023",
+      "venue": "Noble Cider",
+      "city": "Leicester, NC"
+    },
     {
-      "date": "07/25/2023",
-      "venue": "Catawba Brewing",
+      "date": "07/15/2023",
+      "venue": "Don't Tell"
+    },
+    {
+      "date": "07/08/2023",
+      "venue": "Don't Tell",
     },
     {
       "date": "07/09/2023",
@@ -53,9 +70,8 @@ showObjects:
       "city": "West Asheville",
     },
     {
-      "date": "06/18/2023",
-      "venue": "Ale Rae's",
-      "city": "Knoxville, TN"
+      "date": "06/22/2023",
+      "venue": "High Climate Tea Company",
     },
     {
       "date": "06/18/2023",
@@ -94,7 +110,9 @@ showObjects:
       "date": "04/27/2023",
       "venue": "Story Parlor",
     },
-    { "date": "04/21/2023", "venue": "Noble Cider",
+    { 
+      "date": "04/21/2023",
+      "venue": "Noble Cider",
       "city": "Leicester, NC"
     },
     {
