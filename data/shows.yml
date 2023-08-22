@@ -19,9 +19,16 @@ showObjects: [ {
       "city": "Greensboro, NC"
     },
     {
+      "date": "09/03/2023",
+      "venue": "The Grey Eagle",
+    },
+    {
+      "date": "08/27/2023",
+      "venue": "Ginger's Revenge (South Slope)",
+    },
+    {
       "date": "08/26/2023",
-      "venue": "The Boutiquery",
-      "city": "Richmond, VA"
+      "venue": "Girl and Goblin",
     },
     {
       "date": "08/25/2023",
@@ -35,7 +42,12 @@ showObjects: [ {
     },
     {
       "date": "08/17/2023",
-      "venue": "Eurisko Beer Company",
+      "venue": "Wrong Way",
+    },
+    {
+      "date": "08/03/2023",
+      "venue": "The Gaf West",
+      "city": "New York, NY"
     },
     { 
       "date": "07/28/2023",
@@ -43,16 +55,21 @@ showObjects: [ {
       "city": "Leicester, NC"
     },
     {
+      "date": "07/25/2023",
+      "venue": "Catawba Brewing",
+    },
+    {
+      "date": "07/21/2023",
+      "venue": "Don't Tell",
+      "city": "Knoxville, TN"
+    },
+    {
       "date": "07/15/2023",
       "venue": "Don't Tell"
     },
     {
-      "date": "07/08/2023",
-      "venue": "Don't Tell",
-    },
-    {
       "date": "07/09/2023",
-      "venue": "Goodnights (NC Funniest Person Contest) ",
+      "venue": "Goodnights",
       "city": "Raleigh, NC"
     },
     {
