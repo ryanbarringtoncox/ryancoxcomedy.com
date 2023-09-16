@@ -4,14 +4,35 @@ showObjects: [ {
       "city": "Knoxville, TN"
     },
     {
-      "date": "09/29/2023",
-      "venue": "The Green Bean",
-      "city": "Greensboro, NC"
+      "date": "10/14/2023",
+      "venue": "One World Brewing West"
+    },
+    {
+      "date": "10/06/2023",
+      "venue": "Oconee Community Theatre",
+      "city": "Seneca, SC"
+    },
+    {
+      "date": "09/28/2023",
+      "venue": "Pulp",
+    },
+    {
+      "date": "09/27/2023",
+      "venue": "Tern Club",
+      "city": "Knoxville, TN"
+    },
+    {
+      "date": "09/17/2023",
+      "venue": "Catawba Brewing"
     },
     {
       "date": "09/07/2023",
       "venue": "North Carolina Comedy Festival",
       "city": "Greensboro, NC"
+    },
+    {
+      "date": "09/06/2023",
+      "venue": "The Orange Peel"
     },
     {
       "date": "09/05/2023",
