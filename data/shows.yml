@@ -1,4 +1,10 @@
-showObjects: [ {
+showObjects: [
+    {
+      "date": "01/26/2024",
+      "venue": "The Cary Theater",
+      "city": "Cary, NC"
+    },
+    {
       "date": "11/05/2023",
       "venue": "Ale Rae's",
       "city": "Knoxville, TN"
