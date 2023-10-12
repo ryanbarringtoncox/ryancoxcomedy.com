@@ -1,213 +1,95 @@
-showObjects: [
-    {
-      "date": "01/26/2024",
-      "venue": "The Cary Theater",
-      "city": "Cary, NC"
-    },
-    {
-      "date": "11/05/2023",
-      "venue": "Ale Rae's",
-      "city": "Knoxville, TN"
-    },
-    {
-      "date": "10/14/2023",
-      "venue": "One World Brewing West"
-    },
+showObjects:
+  [
+    { "date": "01/26/2024", "venue": "The Cary Theater", "city": "Cary, NC" },
+    { "date": "12/21/2023", "venue": "Wrong Way" },
+    { "date": "11/05/2023", "venue": "Ale Rae's", "city": "Knoxville, TN" },
+    { "date": "11/26/2023", "venue": "Catawba Brewing" },
+    { "date": "11/03/2023", "venue": "Catawba Brewing" },
+    { "date": "10/27/2023", "venue": "Noble Cider", "city": "Leicester, NC" },
+    { "date": "10/22/2023", "venue": "Catawba Brewing" },
+    { "date": "10/14/2023", "venue": "One World Brewing West" },
     {
       "date": "10/13/2023",
       "venue": "Mad Anthony's",
-      "city": "Waynesville, NC"
+      "city": "Waynesville, NC",
     },
     {
       "date": "10/06/2023",
       "venue": "Oconee Community Theatre",
-      "city": "Seneca, SC"
+      "city": "Seneca, SC",
     },
-    {
-      "date": "09/28/2023",
-      "venue": "Pulp",
-    },
-    {
-      "date": "09/27/2023",
-      "venue": "Tern Club",
-      "city": "Knoxville, TN"
-    },
-    {
-      "date": "09/17/2023",
-      "venue": "Catawba Brewing"
-    },
+    { "date": "09/28/2023", "venue": "Pulp" },
+    { "date": "09/27/2023", "venue": "Tern Club", "city": "Knoxville, TN" },
+    { "date": "09/17/2023", "venue": "Catawba Brewing" },
     {
       "date": "09/07/2023",
       "venue": "North Carolina Comedy Festival",
-      "city": "Greensboro, NC"
+      "city": "Greensboro, NC",
     },
-    {
-      "date": "09/06/2023",
-      "venue": "The Orange Peel"
-    },
+    { "date": "09/06/2023", "venue": "The Orange Peel" },
     {
       "date": "09/05/2023",
       "venue": "North Carolina Comedy Festival",
-      "city": "Greensboro, NC"
+      "city": "Greensboro, NC",
     },
-    {
-      "date": "09/03/2023",
-      "venue": "The Grey Eagle",
-    },
-    {
-      "date": "08/27/2023",
-      "venue": "Ginger's Revenge (South Slope)",
-    },
-    {
-      "date": "08/26/2023",
-      "venue": "Girl and Goblin",
-    },
+    { "date": "09/03/2023", "venue": "The Grey Eagle" },
+    { "date": "08/27/2023", "venue": "Ginger's Revenge (South Slope)" },
+    { "date": "08/26/2023", "venue": "Girl and Goblin" },
     {
       "date": "08/25/2023",
       "venue": "Nickelpoint Brewing Co",
-      "city": "Raleigh, NC"
+      "city": "Raleigh, NC",
     },
-    {
-      "date": "08/19/2023",
-      "venue": "eVape Tavern",
-      "city": "Knoxville, TN"
-    },
-    {
-      "date": "08/17/2023",
-      "venue": "Wrong Way",
-    },
-    {
-      "date": "08/03/2023",
-      "venue": "The Gaf West",
-      "city": "New York, NY"
-    },
-    { 
-      "date": "07/28/2023",
-      "venue": "Noble Cider",
-      "city": "Leicester, NC"
-    },
-    {
-      "date": "07/25/2023",
-      "venue": "Catawba Brewing",
-    },
-    {
-      "date": "07/21/2023",
-      "venue": "Don't Tell",
-      "city": "Knoxville, TN"
-    },
-    {
-      "date": "07/15/2023",
-      "venue": "Don't Tell"
-    },
-    {
-      "date": "07/09/2023",
-      "venue": "Goodnights",
-      "city": "Raleigh, NC"
-    },
-    {
-      "date": "07/08/2023",
-      "venue": "Don't Tell",
-    },
+    { "date": "08/19/2023", "venue": "eVape Tavern", "city": "Knoxville, TN" },
+    { "date": "08/17/2023", "venue": "Wrong Way" },
+    { "date": "08/03/2023", "venue": "The Gaf West", "city": "New York, NY" },
+    { "date": "07/28/2023", "venue": "Noble Cider", "city": "Leicester, NC" },
+    { "date": "07/25/2023", "venue": "Catawba Brewing" },
+    { "date": "07/21/2023", "venue": "Don't Tell", "city": "Knoxville, TN" },
+    { "date": "07/15/2023", "venue": "Don't Tell" },
+    { "date": "07/09/2023", "venue": "Goodnights", "city": "Raleigh, NC" },
+    { "date": "07/08/2023", "venue": "Don't Tell" },
     {
       "date": "07/04/2023",
       "venue": "Central Cinema",
-      "city": "Knoxville, TN"
+      "city": "Knoxville, TN",
     },
-    {
-      "date": "07/03/2023",
-      "venue": "Don't Tell",
-      "city": "West Asheville",
-    },
-    {
-      "date": "06/22/2023",
-      "venue": "High Climate Tea Company",
-    },
+    { "date": "07/03/2023", "venue": "Don't Tell", "city": "West Asheville" },
+    { "date": "06/22/2023", "venue": "High Climate Tea Company" },
     {
       "date": "06/18/2023",
       "venue": "Geezers Brewery",
-      "city": "Knoxville, TN"
+      "city": "Knoxville, TN",
     },
-    {
-      "date": "06/03/2023",
-      "venue": "Don't Tell",
-    },
+    { "date": "06/03/2023", "venue": "Don't Tell" },
     {
       "date": "05/27/2023",
       "venue": "Comedy Key West",
-      "city": "Key West, FL"
+      "city": "Key West, FL",
     },
-    {
-      "date": "05/12/2023",
-      "venue": "Anderby Brewing",
-      "city": "Atlanta, GA"
-    },
+    { "date": "05/12/2023", "venue": "Anderby Brewing", "city": "Atlanta, GA" },
     {
       "date": "05/11/2023",
       "venue": "Sister Louisa's Church",
-      "city": "Atlanta, GA"
+      "city": "Atlanta, GA",
     },
-    {
-      "date": "05/10/2023",
-      "venue": "Laughing Skull",
-      "city": "Atlanta, GA"
-    },
-    {
-      "date": "05/05/2023",
-      "venue": "The Boiler Room",
-    },
-    {
-      "date": "04/27/2023",
-      "venue": "Story Parlor",
-    },
-    { 
-      "date": "04/21/2023",
-      "venue": "Noble Cider",
-      "city": "Leicester, NC"
-    },
-    {
-      "date": "04/20/2023",
-      "venue": "Shaky's",
-    },
-    {
-      "date": "04/16/2023",
-      "venue": "Catawba Brewing",
-    },
-    {
-      "date": "04/01/2023",
-      "venue": "Don't Tell",
-    },
+    { "date": "05/10/2023", "venue": "Laughing Skull", "city": "Atlanta, GA" },
+    { "date": "05/05/2023", "venue": "The Boiler Room" },
+    { "date": "04/27/2023", "venue": "Story Parlor" },
+    { "date": "04/21/2023", "venue": "Noble Cider", "city": "Leicester, NC" },
+    { "date": "04/20/2023", "venue": "Shaky's" },
+    { "date": "04/16/2023", "venue": "Catawba Brewing" },
+    { "date": "04/01/2023", "venue": "Don't Tell" },
     {
       "date": "03/31/2023",
       "venue": "Grateful Organic Diner",
-      "city": "Marshall, NC"
+      "city": "Marshall, NC",
     },
-    {
-      "date": "03/26/2023",
-      "venue": "Ale Rae's",
-      "city": "Knoxville, TN"
-    },
-    {
-      "date": "03/05/2023",
-      "venue": "Catawba Brewing",
-    },
-    {
-      "date": "03/17/2023",
-      "venue": "The Burger Bar",
-    },
-    {
-      "date": "02/16/2023",
-      "venue": "Pulp"
-    },
-    {
-      "date": "01/30/2023",
-      "venue": "The Grey Eagle"
-    },
-    {
-      "date": "01/27/2023",
-      "venue": "Gigi's Underground"
-    },
-    {
-      "date": "01/06/2023",
-      "venue": "rEvolve Vintage"
-    },
+    { "date": "03/26/2023", "venue": "Ale Rae's", "city": "Knoxville, TN" },
+    { "date": "03/05/2023", "venue": "Catawba Brewing" },
+    { "date": "03/17/2023", "venue": "The Burger Bar" },
+    { "date": "02/16/2023", "venue": "Pulp" },
+    { "date": "01/30/2023", "venue": "The Grey Eagle" },
+    { "date": "01/27/2023", "venue": "Gigi's Underground" },
+    { "date": "01/06/2023", "venue": "rEvolve Vintage" },
   ]
