@@ -1,9 +1,9 @@
 showObjects:
   [
     { "date": "01/26/2024", "venue": "The Cary Theater", "city": "Cary, NC" },
-    { "date": "12/21/2023", "venue": "Wrong Way" },
-    { "date": "11/05/2023", "venue": "Ale Rae's", "city": "Knoxville, TN" },
+    { "date": "12/21/2023", "venue": "Wrong Way Campground" },
     { "date": "11/26/2023", "venue": "Catawba Brewing" },
+    { "date": "11/05/2023", "venue": "Ale Rae's", "city": "Knoxville, TN" },
     { "date": "11/03/2023", "venue": "Catawba Brewing" },
     { "date": "10/27/2023", "venue": "Noble Cider", "city": "Leicester, NC" },
     { "date": "10/22/2023", "venue": "Catawba Brewing" },
@@ -23,13 +23,13 @@ showObjects:
     { "date": "09/17/2023", "venue": "Catawba Brewing" },
     {
       "date": "09/07/2023",
-      "venue": "North Carolina Comedy Festival",
+      "venue": "The Idiot Box",
       "city": "Greensboro, NC",
     },
     { "date": "09/06/2023", "venue": "The Orange Peel" },
     {
       "date": "09/05/2023",
-      "venue": "North Carolina Comedy Festival",
+      "venue": "The Idiot Box",
       "city": "Greensboro, NC",
     },
     { "date": "09/03/2023", "venue": "The Grey Eagle" },
@@ -41,7 +41,7 @@ showObjects:
       "city": "Raleigh, NC",
     },
     { "date": "08/19/2023", "venue": "eVape Tavern", "city": "Knoxville, TN" },
-    { "date": "08/17/2023", "venue": "Wrong Way" },
+    { "date": "08/17/2023", "venue": "Wrong Way Campground" },
     { "date": "08/03/2023", "venue": "The Gaf West", "city": "New York, NY" },
     { "date": "07/28/2023", "venue": "Noble Cider", "city": "Leicester, NC" },
     { "date": "07/25/2023", "venue": "Catawba Brewing" },
