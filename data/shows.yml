@@ -1,5 +1,6 @@
 showObjects:
   [
+    { "date": "02/08/2024", "venue": "185 King Street", "city": "Brevard, NC" },
     { "date": "01/26/2024", "venue": "The Cary Theater", "city": "Cary, NC" },
     { "date": "12/21/2023", "venue": "Wrong Way Campground" },
     { "date": "11/26/2023", "venue": "Catawba Brewing" },

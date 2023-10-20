@@ -7,7 +7,7 @@ theme = "blogge"
 
 [params]
   summarylength = 80
-  mainImage = "/images/ryan-cox-ale-raes-fun.jpg"
+  mainImage = "/images/ryan-cox-idiot-box.jpg"
   featuredImage = "/images/ryan-cox-featured.png"
   author = "ryancoxcomedy"
   authorThumb = "images/author.png"
