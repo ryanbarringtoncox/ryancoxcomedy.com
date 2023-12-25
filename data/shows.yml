@@ -1,11 +1,16 @@
 showObjects:
   [
+    { "date": "02/23/2024", "venue": "VFW Post 9273", "city": "Piedmont, SC" },
     { "date": "02/08/2024", "venue": "185 King Street", "city": "Brevard, NC" },
     { "date": "01/26/2024", "venue": "The Cary Theater", "city": "Cary, NC" },
-    { "date": "12/21/2023", "venue": "Wrong Way Campground" },
+    { "date": "01/19/2024", "venue": "Catawba Brewing" },
+    { "date": "01/13/2024", "venue": "Flat Iron", "city": "Greensboro, NC" },
+    { "date": "01/07/2024", "venue": "Ginger's Revenge" },
+    { "date": "12/29/2023", "venue": "Noble Cider", "city": "Leicester, NC" },
+    { "date": "12/21/2023", "venue": "LaZoom" },
     { "date": "12/16/2023", "venue": "Noble Cider" },
+    { "date": "12/10/2023", "venue": "Asheville Pizza" },
     { "date": "12/01/2023", "venue": "Catawba Brewing" },
-    { "date": "11/26/2023", "venue": "Catawba Brewing" },
     { "date": "11/19/2023", "venue": "Catawba Brewing" },
     { "date": "11/05/2023", "venue": "Ale Rae's", "city": "Knoxville, TN" },
     { "date": "11/03/2023", "venue": "Catawba Brewing" },
