@@ -1,0 +1,56 @@
+
+{{ define "main" }}
+
+<section class="">
+  <section class="featured">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <article class="featured-post">
+            <div class="featured-post-content">
+              <a class="featured-post-title">
+                2023 SHOWS
+              </a>
+            <table class="events-table">
+              <thead>
+                <tr>
+                  <th class="event-time" scope="col"></th>
+                  <th class="event-venue" scope="col"></th>
+                  <th class="event-city" scope="col"></th>
+                </tr>
+              </thead>
+              <tbody>
+                {{ with .Site.Data.past_shows }}
+                  {{ range .showObjects}}
+                  <tr>
+                    <td>
+                      {{ .date }}
+                      <p></p>
+                    </td>
+                    <td>
+                      {{ .venue }}
+                      <p></p>
+                    </td>
+                    <td>
+                      <em>
+                      {{ if .city }}
+                        {{.city}}
+                      {{ else }}
+                        Asheville, NC
+                      {{ end }}
+                      </em>
+                      <p></p>
+                    </td>
+                  </tr>
+                  {{ end}}
+                {{ end}}
+              </tbody>
+            </table>
+           </div>
+          </article>
+        </div> 
+      </div> 
+    </div>
+  </section>
+
+{{ end }}
