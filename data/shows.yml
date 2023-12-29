@@ -1,5 +1,10 @@
 showObjects:
   [
+    {
+      "date": "03/05/2024",
+      "venue": "Central Cinema",
+      "city": "Knoxville, TN",
+    },
     { "date": "02/23/2024", "venue": "VFW Post 9273", "city": "Piedmont, SC" },
     { "date": "02/08/2024", "venue": "185 King Street", "city": "Brevard, NC" },
     { "date": "01/26/2024", "venue": "The Cary Theater", "city": "Cary, NC" },
