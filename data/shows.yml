@@ -6,11 +6,21 @@ showObjects:
       "city": "Maryville, TN",
     },
     {
+      "date": "04/27/2024",
+      "venue": "Paradise Hills",
+      "city": "Blairsville, GA",
+    },
+    {
       "date": "04/11/2024",
-      "venue": "Best End Brewing",
+      "venue": "Best End Brewing (Feature)",
       "city": "Atlanta, GA",
     },
     { "date": "03/22/2024", "venue": "Don't Tell", "city": "Nashville, TN" },
+    {
+      "date": "03/21/2024",
+      "venue": "JJ's Bohemia (Feature)",
+      "city": "Chattanooga, TN",
+    },
     {
       "date": "03/14/2024",
       "venue": "The Dive Motel",
@@ -27,6 +37,7 @@ showObjects:
     { "date": "02/16/2024", "venue": "Catawba Brewing" },
     { "date": "02/15/2024", "venue": "LaZoom" },
     { "date": "02/08/2024", "venue": "185 King Street", "city": "Brevard, NC" },
+    { "date": "02/02/2024", "venue": "Burger Bar" },
     { "date": "01/26/2024", "venue": "The Cary Theater", "city": "Cary, NC" },
     { "date": "01/19/2024", "venue": "Catawba Brewing" },
     { "date": "01/13/2024", "venue": "Don't Tell", "city": "Maryville, TN" },
