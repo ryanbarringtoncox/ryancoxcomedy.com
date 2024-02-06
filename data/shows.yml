@@ -21,6 +21,7 @@ showObjects:
       "venue": "JJ's Bohemia (Feature)",
       "city": "Chattanooga, TN",
     },
+    { "date": "03/17/2024", "venue": "Asheville Pizza & Brewing Co" },
     {
       "date": "03/14/2024",
       "venue": "The Dive Motel",
