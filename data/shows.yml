@@ -15,6 +15,7 @@ showObjects:
       "venue": "Best End Brewing (Feature)",
       "city": "Atlanta, GA",
     },
+    { "date": "03/28/2024", "venue": "Sovereign Kava" },
     { "date": "03/22/2024", "venue": "Don't Tell", "city": "Nashville, TN" },
     {
       "date": "03/21/2024",
