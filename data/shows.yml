@@ -28,7 +28,11 @@ showObjects:
       "venue": "The Dive Motel",
       "city": "Nashville, TN",
     },
-    { "date": "03/08/2024", "venue": "Catawba Brewing" },
+    {
+      "date": "03/08/2024",
+      "venue": "Holly Springs Cultural Center",
+      "city": "Holly Springs",
+    },
     {
       "date": "03/05/2024",
       "venue": "Central Cinema",
