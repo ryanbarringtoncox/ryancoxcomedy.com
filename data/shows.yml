@@ -1,5 +1,6 @@
 showObjects:
   [
+    { "date": "05/17/2024", "venue": "Catawba Brewing" },
     {
       "date": "05/05/2024",
       "venue": "Two Doors Down",
@@ -20,6 +21,14 @@ showObjects:
       "venue": "Best End Brewing (Feature)",
       "city": "Atlanta, GA",
     },
+    {
+      "date": "04/05/2024",
+      "venue": "Two Doors Down",
+      "city": "Maryville, TN",
+    },
+    { "date": "04/04/2024", "venue": "Wrong Way Campground" },
+    { "date": "03/31/2024", "venue": "Catawba Brewing" },
+    { "date": "03/29/2024", "venue": "Catawba Brewing" },
     { "date": "03/28/2024", "venue": "Sovereign Kava" },
     { "date": "03/22/2024", "venue": "Don't Tell", "city": "Nashville, TN" },
     {
