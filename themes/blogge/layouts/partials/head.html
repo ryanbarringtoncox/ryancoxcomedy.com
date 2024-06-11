@@ -9,25 +9,25 @@
   <meta charset="utf-8" />
   <title>{{ .Title }}</title>
 
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" >
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" >
 
   {{ with .Site.Params.author }}
   <meta name="author" content="{{ . }}">
   {{ end }}
   {{ hugo.Generator }}
 
-  <meta property="og:description" content="Official Website for Stand-Up Comedian Ryan Cox" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://ryancoxcomedy.com" />
+  <meta property="og:description" content="Official Website for Stand-Up Comedian Ryan Cox" >
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://ryancoxcomedy.com" >
   {{ with .Site.Params.featuredImage }}
-  <meta property="og:image" content="{{ .  | absURL }}" />
+  <meta property="og:image" content="{{ .  | absURL }}" >
   {{ end }}
 
-  <link rel="stylesheet" href={{ "plugins/font-awesome/css/font-awesome.min.css" | absURL }} />
+  <link rel="stylesheet" href={{ "plugins/font-awesome/css/font-awesome.min.css" | absURL }} >
   {{ $style := resources.Get "scss/style.scss" | resources.ToCSS | minify}}
-  <link href="{{ $style.Permalink }}" rel="stylesheet" />
+  <link href="{{ $style.Permalink }}" rel="stylesheet" >
 
-  <link rel="shortcut icon" href={{ "images/favicon.ico" | absURL }} type="image/x-icon" />
-  <link rel="icon" href={{ "images/favicon.svg" | absURL }} type="image/x-icon" />
+  <link rel="shortcut icon" href={{ "images/favicon.ico" | absURL }} type="image/x-icon" >
+  <link rel="icon" href={{ "images/favicon.svg" | absURL }} type="image/x-icon" >
 </head>
