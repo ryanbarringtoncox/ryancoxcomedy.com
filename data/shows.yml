@@ -2,7 +2,7 @@ showObjects:
   [
     {
       "date": "09/21/2024",
-      "venue": "The Idiot Box (NC Comedy Fest)",
+      "venue": "Carolina Theater (NC Comedy Fest)",
       "city": "Greensboro, NC",
     },
     {
@@ -10,12 +10,28 @@ showObjects:
       "venue": "The Idiot Box (NC Comedy Fest)",
       "city": "Greensboro, NC",
     },
+    {
+      "date": "09/07/2024",
+      "venue": "The Comedy Catch (host for Henry Sir)",
+      "city": "Chattanooga, TN",
+    },
+    {
+      "date": "09/06/2024",
+      "venue": "The Comedy Catch (host for Henry Sir)",
+      "city": "Chattanooga, TN",
+    },
+    { "date": "08/29/2024", "venue": "Story Parlor" },
+    { "date": "08/22/2024", "venue": "185 King Street", "city": "Brevard, NC" },
     { "date": "08/21/2024", "venue": "Laughing Skull", "city": "Atlanta, GA" },
+    { "date": "08/11/2024", "venue": "The Grey Eagle" },
+    { "date": "08/03/2024", "venue": "Don't Tell", "city": "Pittsburgh, PA" },
+    { "date": "07/28/2024", "venue": "Catawba Brewing" },
     {
       "date": "07/25/2024",
       "venue": "Protagonist Beer",
-      "city": "Charlotte, NC",
+      "city": "Charlotte,   NC",
     },
+    { "date": "07/19/2024", "venue": "Catawba Brewing" },
     { "date": "06/15/2024", "venue": "Ginger's Revenge" },
     { "date": "06/14/2024", "venue": "Catawba Brewing" },
     { "date": "05/31/2024", "venue": "Noble Cider", "city": "Leicester, NC" },
