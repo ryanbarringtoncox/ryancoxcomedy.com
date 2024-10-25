@@ -1,8 +1,23 @@
 showObjects:
   [
     {
+      "date": "12/14/2024",
+      "venue": "Carolina Bauernhaus",
+      "city": "Greenville, SC",
+    },
+    { "date": "12/13/2024", "venue": "The Blue Stage", "city": "Andrews, NC" },
+    {
+      "date": "11/02/2024",
+      "venue": "Wallace Theatre",
+      "city": "Johnson City, TN",
+    },
+    { "date": "11/01/2024", "venue": "Burger Bar" },
+    { "date": "10/25/2024", "venue": "Catawba Brewing" },
+    { "date": "10/24/2024", "venue": "The Orange Peel" },
+    { "date": "10/19/2024", "venue": "Blackburn's House" },
+    {
       "date": "09/21/2024",
-      "venue": "Carolina Theater (NC Comedy Fest)",
+      "venue": "The Idiot Box (NC Comedy Fest)",
       "city": "Greensboro, NC",
     },
     {
@@ -10,6 +25,8 @@ showObjects:
       "venue": "The Idiot Box (NC Comedy Fest)",
       "city": "Greensboro, NC",
     },
+    { "date": "09/15/2024", "venue": "Asheville Pizza & Brewing" },
+    { "date": "09/14/2024", "venue": "Don't Tell", "city": "Tri-Cities, TN" },
     {
       "date": "09/07/2024",
       "venue": "The Comedy Catch (host for Henry Sir)",
@@ -22,8 +39,8 @@ showObjects:
     },
     { "date": "08/29/2024", "venue": "Story Parlor" },
     { "date": "08/22/2024", "venue": "185 King Street", "city": "Brevard, NC" },
-    { "date": "08/21/2024", "venue": "Laughing Skull", "city": "Atlanta, GA" },
     { "date": "08/11/2024", "venue": "The Grey Eagle" },
+    { "date": "08/10/2024", "venue": "Grail Moviehouse" },
     { "date": "08/03/2024", "venue": "Don't Tell", "city": "Pittsburgh, PA" },
     { "date": "07/28/2024", "venue": "Catawba Brewing" },
     {
