@@ -6,6 +6,20 @@ showObjects:
       "city": "Greenville, SC",
     },
     { "date": "12/13/2024", "venue": "The Blue Stage", "city": "Andrews, NC" },
+    { "date": "12/08/2024", "venue": "TBA ", "city": "Burnsville, NC" },
+    { "date": "12/01/2024", "venue": "Catawba Brewing" },
+    {
+      "date": "11/24/2024",
+      "venue": "Ale' Rae’s (Headliner)",
+      "city": "Knoxville, TN",
+    },
+    { "date": "11/17/2024", "venue": "Catawba Brewing" },
+    { "date": "11/15/2024", "venue": "Botanist and Barrel" },
+    {
+      "date": "11/10/2024",
+      "venue": "French Fried Vintage",
+      "city": "Knoxville, TN",
+    },
     {
       "date": "11/02/2024",
       "venue": "Wallace Theatre",
