@@ -1,11 +1,29 @@
 showObjects:
   [
     {
+      "date": "05/31/2025",
+      "venue": "The Main Event",
+      "city": "Hendersonville, NC",
+    },
+    { "date": "05/04/2025", "venue": "Ale' Rae’s", "city": "Knoxville, TN" },
+    { "date": "04/19/2025", "venue": "Liquor Lab", "city": "Louisville, KY" },
+    { "date": "04/25/2025", "venue": "TBA" },
+    { "date": "04/12/2025", "venue": "Trailside Brewing" },
+    { "date": "04/03/2025", "venue": "LaZoom" },
+    { "date": "03/29/2025", "venue": "Rad Brewing Co." },
+    { "date": "03/26/2025", "venue": "VOWL" },
+    {
       "date": "03/09/2025",
       "venue": "Axe and Ale House",
       "city": "Bristol, VA",
     },
+    {
+      "date": "03/07/2025",
+      "venue": "The Comedy Zone",
+      "city": "Greenville, SC",
+    },
     { "date": "02/22/2025", "venue": "Hook & Ladder", "city": "Kingsport, TN" },
+    { "date": "02/14/2025", "venue": "Oglebay Resort", "city": "Wheeling, WV" },
     { "date": "02/01/2025", "venue": "Dry Bar Comedy", "city": "Provo, UT" },
     { "date": "01/30/2025", "venue": "LaZoom" },
     {
