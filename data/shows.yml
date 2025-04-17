@@ -1,16 +1,21 @@
 showObjects:
   [
+    { "date": "07/18/2025", "venue": "Don't Tell", "city": "Pittsburgh, PA" },
     {
       "date": "05/31/2025",
       "venue": "The Main Event",
       "city": "Hendersonville, NC",
     },
     { "date": "05/04/2025", "venue": "Ale' Rae’s", "city": "Knoxville, TN" },
+    { "date": "04/25/2025", "venue": "LaZoom" },
     { "date": "04/19/2025", "venue": "Liquor Lab", "city": "Louisville, KY" },
-    { "date": "04/25/2025", "venue": "TBA" },
-    { "date": "04/12/2025", "venue": "Trailside Brewing" },
-    { "date": "04/03/2025", "venue": "LaZoom" },
-    { "date": "03/29/2025", "venue": "Rad Brewing Co." },
+    { "date": "04/13/2025", "venue": "RAD Brewing" },
+    {
+      "date": "04/12/2025",
+      "venue": "Don't Tell",
+      "city": "Hendersonville, NC",
+    },
+    { "date": "03/29/2025", "venue": "Don't Tell" },
     { "date": "03/26/2025", "venue": "VOWL" },
     {
       "date": "03/09/2025",
