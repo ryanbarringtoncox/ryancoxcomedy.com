@@ -1,13 +1,13 @@
 showObjects:
   [
     { "date": "07/18/2025", "venue": "Don't Tell", "city": "Pittsburgh, PA" },
+    { "date": "06/11/2025", "venue": "PULP" },
     {
       "date": "05/31/2025",
       "venue": "The Main Event",
       "city": "Hendersonville, NC",
     },
     { "date": "05/04/2025", "venue": "Ale' Rae’s", "city": "Knoxville, TN" },
-    { "date": "04/25/2025", "venue": "LaZoom" },
     { "date": "04/19/2025", "venue": "Liquor Lab", "city": "Louisville, KY" },
     { "date": "04/13/2025", "venue": "RAD Brewing" },
     {
