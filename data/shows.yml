@@ -15,6 +15,7 @@ showObjects:
       "venue": "Lookout Brewing Company",
       "city": "Black Mountain, NC",
     },
+    { "date": "11/07/2025", "venue": "Burger Bar" },
     {
       "date": "10/29/2025",
       "venue": "Old Mill Brewpub",
@@ -52,8 +53,8 @@ showObjects:
       "venue": "The Comedy Zone",
       "city": "Cherokee, NC",
     },
-    { "date": "10/03/2025", "venue": "The Foundry" },
     { "date": "10/05/2025", "venue": "RAD Brewing" },
+    { "date": "10/03/2025", "venue": "The Foundry" },
     { "date": "10/02/2025", "venue": "Antidote Cocktail Lounge" },
     { "date": "09/20/2025", "venue": "Ginger's Revenge" },
     { "date": "09/14/2025", "venue": "RAD Brewing" },
