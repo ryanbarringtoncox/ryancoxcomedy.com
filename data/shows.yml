@@ -140,20 +140,18 @@ showObjects: [
     # { "date": "11/30/2025", "venue": "Sierra Nevada (Afternoon Show)" },
     # { "date": "11/30/2025", "venue": "RAD Brewing" },
     {
-      "date": "12/03/2025",
-      "venue": "Swanson’s Warehouse (Headlining)",
-      "city": "Greenville, SC",
-    },
-    {
       "date": "12/20/2025",
       "venue": "Mars Theatre (Headlining)",
       "city": "Mars Hill, NC",
+      "ticket_link": "https://www.eventbrite.com/e/stand-up-comedy-show-tickets-1964369262343",
     },
     {
       "date": "01/07/2026",
       "venue": "The Evening Muse (Headlining)",
       "city": "Charlotte, NC",
+      "ticket_link": "https://www.eventbrite.com/e/home-planet-comedy-ryan-cox-with-makenzie-manent-paul-snyder-tickets-1965327111295",
     },
+    { "date": "01/25/2026", "venue": "Eulogy" },
     {
       "date": "01/30/2026",
       "venue": "The Wallace Theatre (Headlining)",

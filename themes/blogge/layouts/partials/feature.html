@@ -177,6 +177,7 @@
                   <th class="event-time" scope="col"></th>
                   <th class="event-venue" scope="col"></th>
                   <th class="event-city" scope="col"></th>
+                  <th class="event-tickets" scope="col"></th>
                 </tr>
               </thead>
               <tbody>
@@ -195,6 +196,12 @@
                       {{ if .city }} {{.city}} {{ else }} Asheville, NC {{ end
                       }}
                     </em>
+                    <p></p>
+                  </td>
+                  <td>
+                    {{ if .ticket_link }}
+                    <a href="{{ .ticket_link }}" target="_blank">Tickets</a>
+                    {{ end }}
                     <p></p>
                   </td>
                 </tr>
