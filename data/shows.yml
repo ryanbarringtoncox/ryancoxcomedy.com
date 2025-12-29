@@ -139,23 +139,43 @@ showObjects: [
     # { "date": "11/29/2025", "venue": "Ginger's Revenge" },
     # { "date": "11/30/2025", "venue": "Sierra Nevada (Afternoon Show)" },
     # { "date": "11/30/2025", "venue": "RAD Brewing" },
-    {
-      "date": "12/20/2025",
-      "venue": "Mars Theatre (Headlining)",
-      "city": "Mars Hill, NC",
-      "ticket_link": "https://www.eventbrite.com/e/stand-up-comedy-show-tickets-1964369262343",
-    },
+    # {
+    #   "date": "12/20/2025",
+    #   "venue": "Mars Theatre (Headlining)",
+    #   "city": "Mars Hill, NC",
+    #   "ticket_link": "https://www.eventbrite.com/e/stand-up-comedy-show-tickets-1964369262343",
+    # },
     {
       "date": "01/07/2026",
       "venue": "The Evening Muse (Headlining)",
       "city": "Charlotte, NC",
       "ticket_link": "https://www.eventbrite.com/e/home-planet-comedy-ryan-cox-with-makenzie-manent-paul-snyder-tickets-1965327111295",
     },
-    { "date": "01/25/2026", "venue": "Eulogy" },
+    {
+      "date": "01/09/2026",
+      "venue": "Shakedown Kava Lounge (Headlining)",
+      "city": "Hendersonville, NC",
+    },
+    {
+      "date": "01/10/2026",
+      "venue": "Sobar Recovery Hub",
+      "city": "Anderson, SC",
+    },
+    {
+      "date": "01/22/2026",
+      "venue": "Peach St Grille (Headlining)",
+      "city": "Tellico Plains, TN",
+    },
+    {
+      "date": "01/25/2026",
+      "venue": "Eulogy (First Jokes Show)",
+      ticket_link: "https://www.eventbrite.com/e/modelface-comedy-presents-first-jokes-tickets-1978015661089",
+    },
     {
       "date": "01/30/2026",
       "venue": "The Wallace Theatre (Headlining)",
       "city": "Johnson City, TN",
+      "ticket_link": "https://wallacetheatre.com/tickets/246",
     },
     # {
     #   "date": "02/06/2026",
