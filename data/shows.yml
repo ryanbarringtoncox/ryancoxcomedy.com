@@ -182,4 +182,10 @@ showObjects: [
     #   "venue": "Highland Creek's Player's Grill",
     #   "city": "Charlotte, NC",
     # },
+    #{ "date": "02/07/2025", "venue": "Don't Tell", "city": "Tri-Cities, TN" },
+    {
+      "date": "02/11/2026",
+      "venue": "Pulp (Valentine's Picture Show)",
+      #"ticket_link": "https://wallacetheatre.com/tickets/246",
+    },
   ]
