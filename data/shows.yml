@@ -24,6 +24,7 @@ showObjects: [
       "date": "01/22/2026",
       "venue": "Peach St Grille (Headlining)",
       "city": "Tellico Plains, TN",
+      ticket_link: "https://www.eventbrite.com/e/tellico-plains-very-own-comedy-show-tickets-1980090971398",
     },
     {
       "date": "01/24/2026",
@@ -63,9 +64,18 @@ showObjects: [
       "venue": "Ginger's Revenge",
       "ticket_link": "https://www.eventbrite.com/e/modelface-comedy-presets-gluten-free-comedy-at-gingers-revenge-tickets-1411456908609?aff=oddtdtcreator",
     },
-    { "date": "03/08/2026", "venue": "Ale' Rae’s", "city": "Knoxville, TN" },
+    {
+      "date": "03/08/2026",
+      "venue": "Ale' Rae’s (Headlinging)",
+      "city": "Knoxville, TN",
+    },
     { "date": "03/20/2026", "venue": "Comedy Zone", "city": "Harrisburg, PA" },
     { "date": "03/21/2026", "venue": "Comedy Zone", "city": "Harrisburg, PA" },
     { "date": "03/22/2026", "venue": "TBA", "city": "MD" },
     { "date": "03/28/2026", "venue": "French Broad River Brewery" },
+    {
+      "date": "04/09/2026",
+      "venue": "The Cliffs at Glassy (Headlining)",
+      "Landrum, SC",
+    },
   ]
