@@ -66,7 +66,7 @@ showObjects: [
     },
     {
       "date": "03/08/2026",
-      "venue": "Ale' Rae’s (Headlinging)",
+      "venue": "Ale' Rae’s (Headlining)",
       "city": "Knoxville, TN",
     },
     { "date": "03/20/2026", "venue": "Comedy Zone", "city": "Harrisburg, PA" },
@@ -76,6 +76,12 @@ showObjects: [
     {
       "date": "04/09/2026",
       "venue": "The Cliffs at Glassy (Headlining)",
-      "Landrum, SC",
+      "city": "Landrum, SC",
     },
+    {
+      "date": "04/18/2026",
+      "venue": "Mars Theatre Brewing Co.",
+      city: "Mars Hill, NC",
+    },
+    { "date": "04/26/2026", "venue": "Fitz and the Wolfe (Headlining)" },
   ]

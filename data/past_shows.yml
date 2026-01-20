@@ -1,5 +1,158 @@
 showObjects:
   [
+
+    # 2025 Shows
+    { "date": "10/03/2025", "venue": "The Foundry" },
+    { "date": "10/05/2025", "venue": "RAD Brewing" },
+    { "date": "10/02/2025", "venue": "Antidote Cocktail Lounge" },
+    { "date": "09/20/2025", "venue": "Ginger's Revenge" },
+    { "date": "09/14/2025", "venue": "RAD Brewing" },
+    {
+      "date": "09/13/2025",
+      "venue": "Three Lions Pub",
+      "city": "Louisburg, NC",
+    },
+    {
+      "date": "09/12/2025",
+      "venue": "Precarious Beer Project",
+      "city": "Williamsburg, VA",
+    },
+    { "date": "09/05/2025", "venue": "Don't Tell Asheville" },
+    {
+      "date": "09/01/2025",
+      "venue": "Don't Tell",
+      "city": "West Asheville, NC",
+    },
+    { "date": "08/31/2025", "venue": "RAD Brewing" },
+    {
+      "date": "08/30/2025",
+      "venue": "Don't Tell",
+      "city": "Hendersonville, NC",
+    },
+    {
+      "date": "08/27/2025",
+      "venue": "Asheville Music Hall (Disclaimer Showcase)",
+    },
+    { "date": "08/24/2025", "venue": "RAD Brewing" },
+    { "date": "08/23/2025", "venue": "The Orange Peel (Beth Stelling)" },
+    {
+      "date": "08/21/2025",
+      "venue": "Paddy's Irish Pub",
+      "city": "Fayetteville, NC",
+    },
+    { "date": "08/16/2025", "venue": "Ginger's Revenge" },
+    { "date": "08/15/2025", "venue": "Don't Tell" },
+    {
+      "date": "08/13/2025",
+      "venue": "Asheville Music Hall (Disclaimer Showcase)",
+    },
+    { "date": "08/07/2025", "venue": "Asheville Comedy Festival" },
+    {
+      "date": "08/06/2025",
+      "venue": "Asheville Music Hall (Disclaimer Showcase)",
+    },
+    {
+      "date": "07/31/2025",
+      "venue": "JJ's Bohemia (feature)",
+      "city": "Chattanooga, TN",
+    },
+    {
+      "date": "07/30/2025",
+      "venue": "Asheville Music Hall (Disclaimer Showcase)",
+    },
+    { "date": "07/25/2025", "venue": "Don't Tell" },
+    { "date": "07/24/2025", "venue": "Sovereign Kava" },
+    { "date": "07/18/2025", "venue": "Don't Tell", "city": "Pittsburgh, PA" },
+    { "date": "06/29/2025", "venue": "RAD Brewing" },
+    {
+      "date": "06/25/2025",
+      "venue": "Comedy Cabana",
+      "city": "Myrtle Beach, SC",
+    },
+    { "date": "06/11/2025", "venue": "PULP" },
+    {
+      "date": "05/31/2025",
+      "venue": "The Main Event",
+      "city": "Hendersonville, NC",
+    },
+    {
+      "date": "05/29/2025",
+      "venue": "Skylaranna",
+      "city": "Hendersonville, NC",
+    },
+    { "date": "05/20/2025", "venue": "Sly Grog Lounge" },
+    { "date": "05/04/2025", "venue": "Ale' Rae’s", "city": "Knoxville, TN" },
+    { "date": "04/19/2025", "venue": "Liquor Lab", "city": "Louisville, KY" },
+    { "date": "04/13/2025", "venue": "RAD Brewing" },
+    {
+      "date": "04/12/2025",
+      "venue": "Don't Tell",
+      "city": "Hendersonville, NC",
+    },
+    { "date": "03/29/2025", "venue": "Don't Tell" },
+    { "date": "03/26/2025", "venue": "VOWL" },
+    {
+      "date": "03/09/2025",
+      "venue": "Axe and Ale House",
+      "city": "Bristol, VA",
+    },
+    {
+      "date": "03/07/2025",
+      "venue": "The Comedy Zone",
+      "city": "Greenville, SC",
+    },
+    { "date": "02/22/2025", "venue": "Hook & Ladder", "city": "Kingsport, TN" },
+    { "date": "02/14/2025", "venue": "Oglebay Resort", "city": "Wheeling, WV" },
+    { "date": "02/01/2025", "venue": "Dry Bar Comedy", "city": "Provo, UT" },
+    { "date": "01/30/2025", "venue": "LaZoom" },
+    {
+      "date": "01/29/2025",
+      "venue": "Old Mill Brewpub",
+      "city": "Lexington, SC",
+    },
+    { "date": "01/25/2025", "venue": "Don't Tell", "city": "Tri-Cities, TN" },
+    { "date": "01/24/2025", "venue": "Catawba Brewing" },
+    { "date": "01/23/2025", "venue": "Outsider Brewing" },
+    { "date": "01/19/2025", "venue": "Catawba Brewing" },
+    { "date": "01/18/2025", "venue": "Ginger's Revenge" },
+    {
+      "date": "01/17/2025",
+      "venue": "Lookout Brewing Company",
+      "city": "Black Mountain, NC",
+    },
+    {
+      "date": "10/29/2025",
+      "venue": "Old Mill Brewpub (Headlining)",
+      "city": "Lexington, SC",
+    },
+    {
+      "date": "11/01/2025",
+      "venue": "Blue Ridge Comedy Club (Headlining)",
+      "city": "Bristol, TN",
+    },
+    { "date": "11/07/2025", "venue": "Burger Bar (Headlining)" },
+    {
+      "date": "11/14/2025",
+      "venue": "Lookout Brewing Company (Headlining)",
+      "city": "Black Mountain, NC",
+    },
+    { "date": "11/15/2025", "venue": "Ginger's Revenge" },
+    { "date": "11/29/2025", "venue": "Ginger's Revenge" },
+    { "date": "11/30/2025", "venue": "Sierra Nevada (Afternoon Show)" },
+    { "date": "11/30/2025", "venue": "RAD Brewing" },
+
+    {
+      "date": "12/03/2025",
+      "venue": "Swanson’s Warehouse (Headlining)",
+      "city": "Greenville, SC",
+    },
+    {
+      "date": "12/20/2025",
+      "venue": "Mars Theatre (Headlining)",
+      "city": "Mars Hill, NC",
+    },
+
+    # 2024 Shows
     { "date": "12/22/2024", "venue": "Catawba Brewing" },
     { "date": "12/20/2024", "venue": "Terra Nova Beer Co." },
     { "date": "12/18/2024", "venue": "Private Holiday Event" },
@@ -148,6 +301,9 @@ showObjects:
     { "date": "01/19/2024", "venue": "Catawba Brewing" },
     { "date": "01/13/2024", "venue": "Don't Tell", "city": "Maryville, TN" },
     { "date": "01/07/2024", "venue": "Catawba Brewing" },
+
+
+    # 2023 Shows
     { "date": "12/29/2023", "venue": "Noble Cider", "city": "Leicester, NC" },
     { "date": "12/27/2023", "venue": "Fly By Night" },
     { "date": "12/21/2023", "venue": "LaZoom" },
