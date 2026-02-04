@@ -171,43 +171,129 @@
         <article class="featured-post">
           <div class="featured-post-content">
             <a href="#shows" class="featured-post-title">2026 SHOWS</a>
-            <table class="events-table">
-              <thead>
-                <tr>
-                  <th class="event-time" scope="col"></th>
-                  <th class="event-venue" scope="col"></th>
-                  <th class="event-city" scope="col"></th>
-                  <th class="event-tickets" scope="col"></th>
-                </tr>
-              </thead>
-              <tbody>
-                {{ with .Site.Data.shows }} {{ range .showObjects}}
-                <tr>
-                  <td>
-                    {{ .date }}
-                    <p></p>
-                  </td>
-                  <td>
-                    {{ .venue }}
-                    <p></p>
-                  </td>
-                  <td>
-                    <em>
-                      {{ if .city }} {{.city}} {{ else }} Asheville, NC {{ end
-                      }}
-                    </em>
-                    <p></p>
-                  </td>
-                  <td>
-                    {{ if .ticket_link }}
-                    <a href="{{ .ticket_link }}" target="_blank">Tickets</a>
-                    {{ end }}
-                    <p></p>
-                  </td>
-                </tr>
-                {{ end}} {{ end}}
-              </tbody>
-            </table>
+            <div class=".formkit-parent">
+              <!-- This link tag breaks my VS Code prettier but it works getting styles in -->
+              <link rel="stylesheet" href="{{ "css/formkit.css" | absURL }}">
+              <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+              <p>
+                <i>
+                  Sign up for my mailing list please! Occasional emails. No
+                  spam. Mostly tour dates + free clips. Unsub any time.
+                </i>
+              </p>
+              <form
+                action="https://app.kit.com/forms/9051683/subscriptions"
+                class="seva-form formkit-form"
+                method="post"
+                data-sv-form="9051683"
+                data-uid="8fbc7c48c8"
+                data-format="inline"
+                data-version="5"
+                data-options='{"settings":{"after_subscribe":{"action":"message","success_message":"Success! Now check your email to confirm your subscription.","redirect_url":""},"analytics":{"google":null,"fathom":null,"facebook":null,"segment":null,"pinterest":null,"sparkloop":null,"googletagmanager":null},"modal":{"trigger":"timer","scroll_percentage":null,"timer":5,"devices":"all","show_once_every":15},"powered_by":{"show":true,"url":"https://kit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic"},"recaptcha":{"enabled":false},"return_visitor":{"action":"show","custom_content":""},"slide_in":{"display_in":"bottom_right","trigger":"timer","scroll_percentage":null,"timer":5,"devices":"all","show_once_every":15},"sticky_bar":{"display_in":"top","trigger":"timer","scroll_percentage":null,"timer":5,"devices":"all","show_once_every":15}},"version":"5"}'
+                min-width="400 500 600 700 800"
+              >
+                <div data-style="clean">
+                  <ul
+                    class="formkit-alert formkit-alert-error"
+                    data-element="errors"
+                    data-group="alert"
+                  ></ul>
+                  <div
+                    data-element="fields"
+                    data-stacked="false"
+                    class="seva-fields formkit-fields"
+                  >
+                    <div class="formkit-field">
+                      <input
+                        class="formkit-input"
+                        name="email_address"
+                        aria-label="Email Address"
+                        placeholder="Email Address"
+                        required=""
+                        type="email"
+                        style="
+                          color: rgb(0, 0, 0);
+                          border-color: rgb(227, 227, 227);
+                          border-radius: 4px;
+                          font-weight: 400;
+                        "
+                      />
+                    </div>
+                    <div class="formkit-field">
+                      <input
+                        class="formkit-input"
+                        aria-label="City"
+                        name="fields[city]"
+                        placeholder="City"
+                        type="text"
+                        style="
+                          color: rgb(0, 0, 0);
+                          border-color: rgb(227, 227, 227);
+                          border-radius: 4px;
+                          font-weight: 400;
+                        "
+                      />
+                    </div>
+                    <button
+                      data-element="submit"
+                      class="formkit-submit formkit-submit"
+                      style="
+                        color: rgb(255, 255, 255);
+                        background-color: rgb(229, 9, 20);
+                        border-radius: 4px;
+                        font-weight: 400;
+                      "
+                    >
+                      <div class="formkit-spinner">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                      </div>
+                      <span class="">Subscribe</span>
+                    </button>
+                  </div>
+                </div>
+              </form>
+            </div>
+            <div>
+              <table class="events-table">
+                <thead>
+                  <tr>
+                    <th class="event-time" scope="col"></th>
+                    <th class="event-venue" scope="col"></th>
+                    <th class="event-city" scope="col"></th>
+                    <th class="event-tickets" scope="col"></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {{ with .Site.Data.shows }} {{ range .showObjects}}
+                  <tr>
+                    <td>
+                      {{ .date }}
+                      <p></p>
+                    </td>
+                    <td>
+                      {{ .venue }}
+                      <p></p>
+                    </td>
+                    <td>
+                      <em>
+                        {{ if .city }} {{.city}} {{ else }} Asheville, NC {{ end
+                        }}
+                      </em>
+                      <p></p>
+                    </td>
+                    <td>
+                      {{ if .ticket_link }}
+                      <a href="{{ .ticket_link }}" target="_blank">Tickets</a>
+                      {{ end }}
+                      <p></p>
+                    </td>
+                  </tr>
+                  {{ end}} {{ end}}
+                </tbody>
+              </table>
+            </div>
           </div>
         </article>
       </div>

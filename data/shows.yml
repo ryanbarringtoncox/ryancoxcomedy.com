@@ -27,27 +27,21 @@ showObjects: [
       ticket_link: "https://www.eventbrite.com/e/tellico-plains-very-own-comedy-show-tickets-1980090971398",
     },
     {
-      "date": "01/24/2026",
-      "venue": "Don't Tell Asheville",
-      ticket_link: "https://www.donttellcomedy.com/shows/asheville-17014/",
-    },
-    {
-      "date": "01/25/2026",
-      "venue": "Eulogy (First Jokes Show)",
+      "date": "02/05/2026",
+      "venue": "Ginger's Revenge (First Jokes Show)",
       ticket_link: "https://www.eventbrite.com/e/modelface-comedy-presents-first-jokes-tickets-1978015661089",
-    },
-    {
-      "date": "01/30/2026",
-      "venue": "The Wallace Theatre (Headlining)",
-      "city": "Johnson City, TN",
-      "ticket_link": "https://wallacetheatre.com/tickets/246",
     },
     {
       "date": "02/06/2026",
       "venue": "Highland Creek's Player's Grill",
       "city": "Charlotte, NC",
     },
-    #{ "date": "02/07/2025", "venue": "Don't Tell", "city": "Tri-Cities, TN" },
+    {
+      "date": "02/07/2025",
+      "venue": "Don't Tell",
+      "city": "Tri-Cities, TN",
+      "ticket_link": "https://www.donttellcomedy.com/shows/tricities-tn-2753caff/",
+    },
     {
       "date": "02/11/2026",
       "venue": "Pulp (Valentine's Picture Show)",
@@ -69,6 +63,12 @@ showObjects: [
       "venue": "Ale' Rae’s (Headlining)",
       "city": "Knoxville, TN",
     },
+    {
+      "date": "03/13/2026",
+      "venue": "The Wallace Theatre (Headlining)",
+      "city": "Johnson City, TN",
+      "ticket_link": "https://wallacetheatre.com/tickets/246",
+    },
     { "date": "03/20/2026", "venue": "Comedy Zone", "city": "Harrisburg, PA" },
     { "date": "03/21/2026", "venue": "Comedy Zone", "city": "Harrisburg, PA" },
     { "date": "03/22/2026", "venue": "TBA", "city": "MD" },
@@ -79,9 +79,9 @@ showObjects: [
       "city": "Landrum, SC",
     },
     {
-      "date": "04/18/2026",
+      "date": "04/17/2026",
       "venue": "Mars Theatre Brewing Co.",
       city: "Mars Hill, NC",
     },
-    { "date": "04/26/2026", "venue": "Fitz and the Wolfe (Headlining)" },
+    { "date": "04/26/2026", "venue": "Fitz and the Wolfe" },
   ]
