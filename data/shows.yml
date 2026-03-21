@@ -59,20 +59,30 @@ showObjects: [
       "ticket_link": "https://www.eventbrite.com/e/modelface-comedy-presets-gluten-free-comedy-at-gingers-revenge-tickets-1411456908609?aff=oddtdtcreator",
     },
     {
-      "date": "03/08/2026",
-      "venue": "Ale' Rae’s (Headlining)",
-      "city": "Knoxville, TN",
-    },
-    {
       "date": "03/13/2026",
       "venue": "The Wallace Theatre (Headlining)",
       "city": "Johnson City, TN",
       "ticket_link": "https://wallacetheatre.com/tickets/246",
     },
-    { "date": "03/20/2026", "venue": "Comedy Zone", "city": "Harrisburg, PA" },
-    { "date": "03/21/2026", "venue": "Comedy Zone", "city": "Harrisburg, PA" },
-    { "date": "03/22/2026", "venue": "TBA", "city": "MD" },
-    { "date": "03/28/2026", "venue": "French Broad River Brewery" },
+    {
+      "date": "03/20/2026",
+      "venue": "Comedy Zone",
+      "city": "Harrisburg, PA",
+      ticket_link: "https://www.eventbrite.com/e/coleman-green-and-ryan-cox-friday-815pm-tickets-1980237703277",
+    },
+    {
+      "date": "03/21/2026",
+      "venue": "Comedy Zone",
+      "city": "Harrisburg, PA",
+
+      ticket_link: "https://www.eventbrite.com/e/coleman-green-and-ryan-cox-saturday-8pm-tickets-1980237825643",
+    },
+    { "date": "03/22/2026", "venue": "Martha's Cafe", "city": "Arbutus, MD" },
+    {
+      "date": "03/28/2026",
+      "venue": "Don't Tell",
+      ticket_link: "https://www.donttellcomedy.com/shows/asheville-17432/",
+    },
     {
       "date": "04/09/2026",
       "venue": "The Cliffs at Glassy (Headlining)",
@@ -82,6 +92,12 @@ showObjects: [
       "date": "04/17/2026",
       "venue": "Mars Theatre Brewing Co.",
       city: "Mars Hill, NC",
+      ticket_link: "https://www.eventbrite.com/e/comedy-show-tickets-1983198459980",
     },
-    { "date": "04/26/2026", "venue": "Fitz and the Wolfe" },
+    { "date": "05/16/2026", "venue": "Don't Tell", "city": "Tri-Cities, TN" },
+    {
+      "date": "06/27/2026",
+      "venue": "Private Wedding",
+      "city": "Asheville, NC",
+    },
   ]
