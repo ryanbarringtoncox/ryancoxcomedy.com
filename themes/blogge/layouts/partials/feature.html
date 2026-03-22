@@ -250,6 +250,59 @@
 </section>
 <section class="featured">
   <div class="container">
+    <div id="shows" class="row">
+      <div class="col-12">
+        <article class="featured-post">
+          <div class="featured-post-content">
+            <a href="#shows" class="featured-post-title">2026 SHOWS</a>
+            {{ partial "formkit.html" . }}
+            <div>
+              <table class="events-table">
+                <thead>
+                  <tr>
+                    <th class="event-time" scope="col"></th>
+                    <th class="event-venue" scope="col"></th>
+                    <th class="event-city" scope="col"></th>
+                    <th class="event-tickets" scope="col"></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {{ with .Site.Data.shows }} {{ range .showObjects}}
+                  <tr>
+                    <td>
+                      {{ .date }}
+                      <p></p>
+                    </td>
+                    <td>
+                      {{ .venue }}
+                      <p></p>
+                    </td>
+                    <td>
+                      <em>
+                        {{ if .city }} {{.city}} {{ else }} Asheville, NC {{ end
+                        }}
+                      </em>
+                      <p></p>
+                    </td>
+                    <td>
+                      {{ if .ticket_link }}
+                      <a href="{{ .ticket_link }}" target="_blank">Tickets</a>
+                      {{ end }}
+                      <p></p>
+                    </td>
+                  </tr>
+                  {{ end}} {{ end}}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="featured">
+  <div class="container">
     <div id="podcast" class="row">
       <div class="col-12">
         <article class="featured-post">
@@ -315,59 +368,6 @@
                   allowfullscreen
                 ></iframe>
               </div>
-            </div>
-          </div>
-        </article>
-      </div>
-    </div>
-  </div>
-</section>
-<section class="featured">
-  <div class="container">
-    <div id="shows" class="row">
-      <div class="col-12">
-        <article class="featured-post">
-          <div class="featured-post-content">
-            <a href="#shows" class="featured-post-title">2026 SHOWS</a>
-            {{ partial "formkit.html" . }}
-            <div>
-              <table class="events-table">
-                <thead>
-                  <tr>
-                    <th class="event-time" scope="col"></th>
-                    <th class="event-venue" scope="col"></th>
-                    <th class="event-city" scope="col"></th>
-                    <th class="event-tickets" scope="col"></th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {{ with .Site.Data.shows }} {{ range .showObjects}}
-                  <tr>
-                    <td>
-                      {{ .date }}
-                      <p></p>
-                    </td>
-                    <td>
-                      {{ .venue }}
-                      <p></p>
-                    </td>
-                    <td>
-                      <em>
-                        {{ if .city }} {{.city}} {{ else }} Asheville, NC {{ end
-                        }}
-                      </em>
-                      <p></p>
-                    </td>
-                    <td>
-                      {{ if .ticket_link }}
-                      <a href="{{ .ticket_link }}" target="_blank">Tickets</a>
-                      {{ end }}
-                      <p></p>
-                    </td>
-                  </tr>
-                  {{ end}} {{ end}}
-                </tbody>
-              </table>
             </div>
           </div>
         </article>
