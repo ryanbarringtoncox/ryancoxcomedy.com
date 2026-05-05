@@ -1,10 +1,23 @@
 showObjects: [
-    { "date": "07/11/2026", "venue": "Don't Tell", "city": "Pittsburgh, PA" },
-    { "date": "07/10/2026", "venue": "Don't Tell", "city": "Pittsburgh, PA" },
+    {
+      "date": "07/11/2026",
+      "venue": "Don't Tell (Headlining)",
+      "city": "Pittsburgh, PA",
+    },
+    {
+      "date": "07/10/2026",
+      "venue": "Don't Tell (Headlining)",
+      "city": "Pittsburgh, PA",
+    },
     {
       "date": "06/27/2026",
       "venue": "Private Wedding",
       "city": "Asheville, NC",
+    },
+    {
+      "date": "05/30/2026",
+      "venue": "Highlander's Grill And Tavern",
+      "city": "Banner Elk, NC",
     },
     { "date": "05/16/2026", "venue": "Don't Tell", "city": "Tri-Cities, TN" },
     {
