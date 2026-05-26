@@ -1,5 +1,29 @@
 showObjects: [
     {
+      "date": "10/10/2026",
+      "venue": "Don't Tell",
+      "city": "Hendersonville, NC",
+      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+    },
+    {
+      "date": "09/19/2026",
+      "venue": "American Legion",
+      "city": "Valdese, NC",
+      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+    },
+    {
+      "date": "07/18/2026",
+      "venue": "Don't Tell",
+      "city": "Hendersonville, NC",
+      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+    },
+    {
+      "date": "07/30/2026",
+      "venue": "The Idiot Box (Headlining)",
+      "city": "Greensboro, NC",
+      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+    },
+    {
       "date": "07/11/2026",
       "venue": "Don't Tell (Headlining)",
       "city": "Pittsburgh, PA",
@@ -15,11 +39,22 @@ showObjects: [
       "city": "Asheville, NC",
     },
     {
+      "date": "06/21/2026",
+      "venue": "RAD Brewing Co.",
+      ticket_link: "https://www.eventbrite.com/e/dad-jokes-fathers-day-comedy-showcase-tickets-1988981215357?aff=oddtdtcreator",
+    },
+    {
       "date": "05/30/2026",
       "venue": "Highlander's Grill And Tavern",
       "city": "Banner Elk, NC",
     },
-    { "date": "05/16/2026", "venue": "Don't Tell", "city": "Tri-Cities, TN" },
+    { "date": "05/29/2026", "venue": "Noble Cider" },
+    {
+      "date": "05/16/2026",
+      "venue": "Don't Tell",
+      "city": "Tri-Cities, TN",
+      ticket_link: "https://www.donttellcomedy.com/shows/tricities-tn-beff69c5/",
+    },
     {
       "date": "04/25/2026",
       "venue": "Little Magic Bar",
