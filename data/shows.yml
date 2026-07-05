@@ -6,9 +6,26 @@ showObjects: [
       #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
     },
     {
+      "date": "09/30/2026",
+      "venue": "LaughEasy",
+      "city": "Greenville, NC",
+      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+    },
+    {
       "date": "09/19/2026",
       "venue": "American Legion",
       "city": "Valdese, NC",
+      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+    },
+    {
+      "date": "09/12/2026",
+      "venue": "The Grape & Ale (Headlining)",
+      "city": "Oak Island, NC",
+      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+    },
+    {
+      "date": "09/11/2026",
+      "venue": "Salt Face Mule Brewing Co (Headlining)",
       #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
     },
     {
