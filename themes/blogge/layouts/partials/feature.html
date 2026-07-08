@@ -7,19 +7,6 @@
             {{ with .Site.Params.mainImage }}
             <img src="{{ .  | absURL }}" alt="feature-post-thumb" />
             {{ end }}
-            <div class="featured-post-author">
-              <p
-                class="featured-post-author blue-ink"
-                style="text-align: center; padding-top: 12px"
-              >
-                Grab a free trial on the Dry Bar Streaming App to watch my full
-                Comedy Special
-                <a href="https://www.drybarcomedy.com/ryancox" target="_blank"
-                  ><i>Sweet Spot</i></a
-                >
-                (clips <a href="#video">below👇👇👇</a>)
-              </p>
-            </div>
           </div>
         </article>
       </div>
@@ -72,96 +59,15 @@
         <article class="featured-post">
           <div class="featured-post-content">
             <a href="#video" class="featured-post-title"> VIDEO </a>
-            <div id="gallery1" class="fb-gallery">
-              <button
-                class="fb-gallery-arrow fb-gallery-prev"
-                onclick="galleryScroll('gallery1', -1)"
-                aria-label="Previous"
-              >
-                &#10094;
-              </button>
-              <div class="fb-gallery-track">
-                <div class="fb-gallery-slide">
-                  <iframe
-                    src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1333258521963987%2F&show_text=false&width=267&t=0"
-                    width="267"
-                    height="476"
-                    style="border: none; overflow: hidden"
-                    scrolling="no"
-                    frameborder="0"
-                    allowfullscreen="true"
-                    allow="
-                      autoplay;
-                      clipboard-write;
-                      encrypted-media;
-                      picture-in-picture;
-                      web-share;
-                    "
-                  ></iframe>
-                </div>
-                <div class="fb-gallery-slide">
-                  <iframe
-                    src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1245753934394578%2F&show_text=false&width=380&t=0"
-                    width="380"
-                    height="476"
-                    style="border: none; overflow: hidden"
-                    scrolling="no"
-                    frameborder="0"
-                    allowfullscreen="true"
-                    allow="
-                      autoplay;
-                      clipboard-write;
-                      encrypted-media;
-                      picture-in-picture;
-                      web-share;
-                    "
-                  ></iframe>
-                </div>
-                <div class="fb-gallery-slide">
-                  <iframe
-                    src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1263741072553377%2F&show_text=false&width=267&t=0"
-                    width="267"
-                    height="476"
-                    style="border: none; overflow: hidden"
-                    scrolling="no"
-                    frameborder="0"
-                    allowfullscreen="true"
-                    allow="
-                      autoplay;
-                      clipboard-write;
-                      encrypted-media;
-                      picture-in-picture;
-                      web-share;
-                    "
-                  ></iframe>
-                </div>
-                <div class="fb-gallery-slide">
-                  <iframe
-                    src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1418280192756932%2F&show_text=false&width=267&t=0"
-                    width="267"
-                    height="476"
-                    style="border: none; overflow: hidden"
-                    scrolling="no"
-                    frameborder="0"
-                    allowfullscreen="true"
-                    allow="
-                      autoplay;
-                      clipboard-write;
-                      encrypted-media;
-                      picture-in-picture;
-                      web-share;
-                    "
-                  ></iframe>
-                </div>
-              </div>
-              <button
-                class="fb-gallery-arrow fb-gallery-next"
-                onclick="galleryScroll('gallery1', 1)"
-                aria-label="Next"
-              >
-                &#10095;
-              </button>
+            <div class="iframe-container">
+              <iframe
+                class="responsive-iframe"
+                src="https://www.youtube.com/embed/i_2mKrKPhjM?wmode=opaque"
+                frameborder="0"
+                allowfullscreen
+              ></iframe>
             </div>
+            <p></p>
             <p></p>
             <div id="gallery2" class="fb-gallery">
               <button
@@ -174,18 +80,7 @@
               <div class="fb-gallery-track">
                 <div class="fb-gallery-slide">
                   <iframe
-                    src="https://www.youtube.com/embed/poM5funXrjY"
-                    width="267"
-                    height="476"
-                    style="border: none; overflow: hidden"
-                    frameborder="0"
-                    allowfullscreen
-                    loading="lazy"
-                  ></iframe>
-                </div>
-                <div class="fb-gallery-slide">
-                  <iframe
-                    src="https://www.youtube.com/embed/xe_dLPf8TZE"
+                    src="https://www.youtube.com/embed/OXxiTzlT26g"
                     width="267"
                     height="476"
                     style="border: none; overflow: hidden"
@@ -207,7 +102,7 @@
                 </div>
                 <div class="fb-gallery-slide">
                   <iframe
-                    src="https://www.youtube.com/embed/RdhRUcxMA1g"
+                    src="https://www.youtube.com/embed/zLssTCVcb78"
                     width="267"
                     height="476"
                     style="border: none; overflow: hidden"
@@ -218,7 +113,7 @@
                 </div>
                 <div class="fb-gallery-slide">
                   <iframe
-                    src="https://www.youtube.com/embed/B3XNOjI_QYc"
+                    src="https://www.youtube.com/embed/RdhRUcxMA1g"
                     width="267"
                     height="476"
                     style="border: none; overflow: hidden"
@@ -382,7 +277,7 @@
               <div class="iframe-container">
                 <iframe
                   class="responsive-iframe"
-                  src="https://www.youtube.com/embed/HXFiSOei7IM?wmode=opaque"
+                  src="https://www.youtube.com/embed/6egilk-1Fps?wmode=opaque"
                   frameborder="0"
                   allowfullscreen
                 ></iframe>
@@ -392,7 +287,7 @@
               <div class="iframe-container">
                 <iframe
                   class="responsive-iframe"
-                  src="https://www.youtube.com/embed/LqWtBvDdJKs?wmode=opaque"
+                  src="https://www.youtube.com/embed/rg1dfR7u8QY?wmode=opaque"
                   frameborder="0"
                   allowfullscreen
                 ></iframe>
@@ -402,7 +297,7 @@
               <div class="iframe-container">
                 <iframe
                   class="responsive-iframe"
-                  src="https://www.youtube.com/embed/p3e_11feYAA?wmode=opaque"
+                  src="https://www.youtube.com/embed/gMaJ10m_nZc?wmode=opaque"
                   frameborder="0"
                   allowfullscreen
                 ></iframe>
