@@ -1,19 +1,21 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-{{ partial "head.html" . }}
+  {{ partial "head.html" . }}
 
-<body>
+  <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KKSS87LL"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-KKSS87LL"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
     <!-- End Google Tag Manager (noscript) -->
     {{ partial "header.html" . }}
-    <div id="content">
-        {{ block "main" . }}{{ end }}
-    </div>
-    {{ partial "instagram.html" . }}
+    <div id="content">{{ block "main" . }}{{ end }}</div>
 
     {{ partial "footer.html" . }}
-</body>
-
+  </body>
 </html>
