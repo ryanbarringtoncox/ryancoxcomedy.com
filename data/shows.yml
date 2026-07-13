@@ -1,3 +1,4 @@
+# Don't oversaturate AVL by posting every show. Save for headlining gigs, etc.
 showObjects: [
     {
       "date": "10/10/2026",
@@ -56,12 +57,12 @@ showObjects: [
       "city": "Greensboro, NC",
       "ticket_link": "https://www.eventbrite.com/e/the-idiot-box-presents-ryan-cox-tickets-1990347193033",
     },
-    {
-      "date": "07/26/2026",
-      "venue": "RAD Brewing Co.",
-      #ticket_link: "https://www.eventbrite.com/e/dad-jokes-fathers-day-comedy-showcase-tickets-1988981215357?aff=oddtdtcreator",
-    },
-    { "date": "07/24/2026", "venue": "TBA" },
+    # {
+    #   "date": "07/26/2026",
+    #   "venue": "RAD Brewing Co.",
+    #   #ticket_link: "https://www.eventbrite.com/e/dad-jokes-fathers-day-comedy-showcase-tickets-1988981215357?aff=oddtdtcreator",
+    # },
+    # { "date": "07/24/2026", "venue": "Cultura" },
     {
       "date": "07/20/2026",
       "venue": "The Lab at Zanies (Nateland Live!)",
@@ -74,7 +75,7 @@ showObjects: [
       "city": "Hendersonville, NC",
       "ticket_link": "https://www.donttellcomedy.com/shows/asheville-17784/",
     },
-    { "date": "07/17/2026", "venue": "Cultura" },
+    # { "date": "07/17/2026", "venue": "Cultura" },
     {
       "date": "07/11/2026",
       "venue": "Don't Tell (Headlining)",
@@ -92,11 +93,11 @@ showObjects: [
       "venue": "Don't Tell",
       ticket_link: "https://www.donttellcomedy.com/shows/asheville-19950/",
     },
-    {
-      "date": "07/02/2026",
-      "venue": "Antidote",
-      "ticket_link": "https://www.eventbrite.com/e/modelface-comedy-presents-founding-farters-tickets-1991671305489?aff=oddtdtcreator",
-    },
+    # {
+    #   "date": "07/02/2026",
+    #   "venue": "Antidote",
+    #   "ticket_link": "https://www.eventbrite.com/e/modelface-comedy-presents-founding-farters-tickets-1991671305489?aff=oddtdtcreator",
+    # },
     { "date": "06/27/2026", "venue": "Private Wedding" },
     {
       "date": "06/26/2026",
@@ -104,11 +105,11 @@ showObjects: [
       "city": "West Asheville, NC",
       ticket_link: "https://www.donttellcomedy.com/shows/asheville-19395/",
     },
-    {
-      "date": "06/21/2026",
-      "venue": "RAD Brewing Co.",
-      ticket_link: "https://www.eventbrite.com/e/dad-jokes-fathers-day-comedy-showcase-tickets-1988981215357?aff=oddtdtcreator",
-    },
+    # {
+    #   "date": "06/21/2026",
+    #   "venue": "RAD Brewing Co.",
+    #   ticket_link: "https://www.eventbrite.com/e/dad-jokes-fathers-day-comedy-showcase-tickets-1988981215357?aff=oddtdtcreator",
+    # },
     {
       "date": "05/30/2026",
       "venue": "Highlander's Grill And Tavern",
@@ -188,11 +189,11 @@ showObjects: [
       "venue": "Highland Creek's Player's Grill",
       "city": "Charlotte, NC",
     },
-    {
-      "date": "02/05/2026",
-      "venue": "Ginger's Revenge (First Jokes Show)",
-      ticket_link: "https://www.eventbrite.com/e/modelface-comedy-presents-first-jokes-tickets-1978015661089",
-    },
+    # {
+    #   "date": "02/05/2026",
+    #   "venue": "Ginger's Revenge (First Jokes Show)",
+    #   ticket_link: "https://www.eventbrite.com/e/modelface-comedy-presents-first-jokes-tickets-1978015661089",
+    # },
     {
       "date": "01/22/2026",
       "venue": "Peach St Grille (Headlining)",
