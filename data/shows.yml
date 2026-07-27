@@ -37,8 +37,9 @@ showObjects: [
     },
     {
       "date": "08/14/2026",
-      "venue": "Appalachian State University",
+      "venue": "The Appalachian Theatre",
       "city": "Boone, NC",
+      "ticket_link": "https://www.apptheatre.org/events-and-tickets/rentaleventtitle-j3cxr-f79k3",
     },
     {
       "date": "08/13/2026",
@@ -57,12 +58,6 @@ showObjects: [
       "city": "Greensboro, NC",
       "ticket_link": "https://www.eventbrite.com/e/the-idiot-box-presents-ryan-cox-tickets-1990347193033",
     },
-    # {
-    #   "date": "07/26/2026",
-    #   "venue": "RAD Brewing Co.",
-    #   #ticket_link: "https://www.eventbrite.com/e/dad-jokes-fathers-day-comedy-showcase-tickets-1988981215357?aff=oddtdtcreator",
-    # },
-    # { "date": "07/24/2026", "venue": "Cultura" },
     {
       "date": "07/20/2026",
       "venue": "The Lab at Zanies (Nateland Live!)",
@@ -71,7 +66,7 @@ showObjects: [
     },
     {
       "date": "07/18/2026",
-      "venue": "Don't Tell",
+      "venue": "Don't Tell (Headlining)",
       "city": "Hendersonville, NC",
       "ticket_link": "https://www.donttellcomedy.com/shows/asheville-17784/",
     },
