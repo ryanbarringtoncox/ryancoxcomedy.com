@@ -47,7 +47,7 @@ showObjects: [
       "ticket_link": "https://www.eventbrite.com/e/rooftop-comedy-featuring-ryan-cox-tickets-1991651976676",
     },
     {
-      "date": "08/02/2026",
+      "date": "08/01/2026",
       "venue": "Barrelhouse",
       "city": "Knoxville, TN",
       #"ticket_link": "https://www.eventbrite.com/e/the-idiot-box-presents-ryan-cox-tickets-1990347193033",
