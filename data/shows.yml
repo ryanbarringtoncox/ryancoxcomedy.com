@@ -22,12 +22,12 @@ showObjects: [
       "date": "09/12/2026",
       "venue": "The Grape & Ale (Headlining)",
       "city": "Oak Island, NC",
-      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+      "ticket_link": "https://www.nextstopcomedy.com/events/the-grape-ale-2026-09-12",
     },
     {
       "date": "09/11/2026",
       "venue": "Salt Face Mule Brewing Co (Headlining)",
-      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+      "ticket_link": "https://www.nextstopcomedy.com/events/salt-face-mule-brewing-co-2026-09-11",
     },
     {
       "date": "08/29/2026",
