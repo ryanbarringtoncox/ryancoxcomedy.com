@@ -1,6 +1,12 @@
 # Don't oversaturate AVL by posting every show. Save for headlining gigs, etc.
 showObjects: [
     {
+      "date": "11/20/2026",
+      "venue": "Venue 220 (Headlining)",
+      "city": "Pulaski, TN",
+      #"ticket_link": "https://www.nextstopcomedy.com/events/the-grape-ale-2026-09-12",
+    },
+    {
       "date": "10/10/2026",
       "venue": "Don't Tell",
       "city": "Hendersonville, NC",
