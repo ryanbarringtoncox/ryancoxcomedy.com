@@ -1,6 +1,12 @@
 # Don't oversaturate AVL by posting every show. Save for headlining gigs, etc.
 showObjects: [
     {
+      "date": "11/21/2026",
+      "venue": "The Lab at Zanies",
+      "city": "Nashville, TN",
+      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+    },
+    {
       "date": "11/20/2026",
       "venue": "Venue 220 (Headlining)",
       "city": "Pulaski, TN",
@@ -15,7 +21,7 @@ showObjects: [
     {
       "date": "09/30/2026",
       "venue": "LaughEasy (Headlining)",
-      "city": "Greenville, NC",
+      "city": "Greenville, SC",
       #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
     },
     {
@@ -23,6 +29,12 @@ showObjects: [
       "venue": "American Legion",
       "city": "Valdese, NC",
       #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+    },
+    {
+      "date": "09/17/2026",
+      "venue": "The Loft (Headlining)",
+      "city": "Columbus, GA",
+      "ticket_link": "https://theloft.com/product/crown-and-comedy-september-17th-730pm/",
     },
     {
       "date": "09/12/2026",
