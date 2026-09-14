@@ -13,6 +13,11 @@ showObjects: [
       #"ticket_link": "https://www.nextstopcomedy.com/events/the-grape-ale-2026-09-12",
     },
     {
+      "date": "11/08/2026",
+      "venue": "RAD Brewing Co. (Ryan Ryan Ryan Show)",
+      #ticket_link: "https://www.eventbrite.com/e/dad-jokes-fathers-day-comedy-showcase-tickets-1988981215357?aff=oddtdtcreator",
+    },
+    {
       "date": "10/10/2026",
       "venue": "Don't Tell",
       "city": "Hendersonville, NC",
