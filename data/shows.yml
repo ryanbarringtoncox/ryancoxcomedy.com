@@ -1,5 +1,6 @@
 # Don't oversaturate AVL by posting every show. Save for headlining gigs, etc.
 showObjects: [
+    { "date": "12/30/2026", "venue": "Grove Park Inn" },
     {
       "date": "11/21/2026",
       "venue": "The Lab at Zanies",
@@ -13,21 +14,42 @@ showObjects: [
       #"ticket_link": "https://www.nextstopcomedy.com/events/the-grape-ale-2026-09-12",
     },
     {
+      "date": "11/13/2026",
+      "venue": "Don't Tell (Late Show)",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-20635/",
+    },
+    {
+      "date": "11/13/2026",
+      "venue": "Don't Tell (Early Show)",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-20634/",
+    },
+    {
       "date": "11/08/2026",
       "venue": "RAD Brewing Co. (Ryan Ryan Ryan Show)",
-      #ticket_link: "https://www.eventbrite.com/e/dad-jokes-fathers-day-comedy-showcase-tickets-1988981215357?aff=oddtdtcreator",
+      ticket_link: "https://www.eventbrite.com/e/rad-comedy-ryan-ryan-ryan-tickets-2001615574064?aff=oddtdtcreator",
+    },
+    {
+      "date": "10/24/2026",
+      "venue": "Don't Tell",
+      "city": "Arden, NC",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-21331/",
+    },
+    {
+      "date": "10/16/2026",
+      "venue": "Don't Tell",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-21236/",
     },
     {
       "date": "10/10/2026",
       "venue": "Don't Tell",
       "city": "Hendersonville, NC",
-      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-17787/",
     },
     {
       "date": "09/30/2026",
       "venue": "LaughEasy (Headlining)",
       "city": "Greenville, SC",
-      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+      "ticket_link": "https://www.eventbrite.com/e/laugheasy-comedy-show-tickets-2001225263635?utm_experiment=test_share_listing&aff=ebdsshios&sg=abcf1f4a38b77c1beaf6a023ce78faed51bbcbac713cbc397da6280bf923a8231d1d4600948ac85bd2e4dd711a036ba6886549084a8913efb0ece5b34bbf242922a4e3503969c7d07a52de7f12",
     },
     {
       "date": "09/19/2026",
