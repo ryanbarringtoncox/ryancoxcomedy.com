@@ -1,7 +1,271 @@
 showObjects:
   [
+    #2026 Shows
+    { "date": "12/30/2026", "venue": "Grove Park Inn" },
+    {
+      "date": "11/21/2026",
+      "venue": "The Lab at Zanies",
+      "city": "Nashville, TN",
+      "ticket_link": "https://www.etix.com/ticket/p/32297399/zanies-comedy-allstars-nashville-the-lab-at-zanies?partner_id=100&_gl=1*1ypue5c*_ga*ODkzNjUxMjQwLjE3OTQzNDcxMzI.*_ga_76DGCEXM0E*czE3OTQzNDcxMzEkbzEkZzEkdDE3OTQzNDcxMzgkajUzJGwwJGg0MTAyNTY3MzQ.*_gcl_au*MTk0OTM5OTIxNy4xNzk0MzQ3MTMy*_ga_MZXSS2FQDS*czE3OTQzNDcxMzEkbzEkZzEkdDE3OTQzNDcxMzgkajUzJGwwJGgxMDY4MjE2ODkz",
+    },
+    {
+      "date": "11/20/2026",
+      "venue": "Venue 220 (Headlining)",
+      "city": "Pulaski, TN",
+      #"ticket_link": "https://www.nextstopcomedy.com/events/the-grape-ale-2026-09-12",
+    },
+    {
+      "date": "11/13/2026",
+      "venue": "Don't Tell (Late Show)",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-20635/",
+    },
+    {
+      "date": "11/13/2026",
+      "venue": "Don't Tell (Early Show)",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-20634/",
+    },
+    {
+      "date": "11/08/2026",
+      "venue": "RAD Brewing Co. (Ryan Ryan Ryan Show)",
+      ticket_link: "https://www.eventbrite.com/e/rad-comedy-ryan-ryan-ryan-tickets-2001615574064?aff=oddtdtcreator",
+    },
+    {
+      "date": "10/24/2026",
+      "venue": "Don't Tell",
+      "city": "Arden, NC",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-21331/",
+    },
+    {
+      "date": "10/16/2026",
+      "venue": "Don't Tell",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-21236/",
+    },
+    {
+      "date": "10/10/2026",
+      "venue": "Don't Tell",
+      "city": "Hendersonville, NC",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-17787/",
+    },
+    {
+      "date": "09/30/2026",
+      "venue": "LaughEasy (Headlining)",
+      "city": "Greenville, SC",
+      "ticket_link": "https://www.eventbrite.com/e/laugheasy-comedy-show-tickets-2001225263635?utm_experiment=test_share_listing&aff=ebdsshios&sg=abcf1f4a38b77c1beaf6a023ce78faed51bbcbac713cbc397da6280bf923a8231d1d4600948ac85bd2e4dd711a036ba6886549084a8913efb0ece5b34bbf242922a4e3503969c7d07a52de7f12",
+    },
+    {
+      "date": "09/19/2026",
+      "venue": "American Legion",
+      "city": "Valdese, NC",
+      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+    },
+    {
+      "date": "09/17/2026",
+      "venue": "The Loft (Headlining)",
+      "city": "Columbus, GA",
+      "ticket_link": "https://theloft.com/product/crown-and-comedy-september-17th-730pm/",
+    },
+    {
+      "date": "09/12/2026",
+      "venue": "The Grape & Ale (Headlining)",
+      "city": "Oak Island, NC",
+      "ticket_link": "https://www.nextstopcomedy.com/events/the-grape-ale-2026-09-12",
+    },
+    {
+      "date": "09/11/2026",
+      "venue": "Salt Face Mule Brewing Co (Headlining)",
+      "ticket_link": "https://www.nextstopcomedy.com/events/salt-face-mule-brewing-co-2026-09-11",
+    },
+    {
+      "date": "08/29/2026",
+      "venue": "Flight Deck NC",
+      "city": "Morrisville, NC",
+      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+    },
+    {
+      "date": "08/14/2026",
+      "venue": "The Appalachian Theatre",
+      "city": "Boone, NC",
+      "ticket_link": "https://www.apptheatre.org/events-and-tickets/rentaleventtitle-j3cxr-f79k3",
+    },
+    {
+      "date": "08/13/2026",
+      "venue": "Antidote (Headlining)",
+      "ticket_link": "https://www.eventbrite.com/e/rooftop-comedy-featuring-ryan-cox-tickets-1991651976676",
+    },
+    {
+      "date": "08/01/2026",
+      "venue": "Barrelhouse",
+      "city": "Knoxville, TN",
+      #"ticket_link": "https://www.eventbrite.com/e/the-idiot-box-presents-ryan-cox-tickets-1990347193033",
+    },
+    {
+      "date": "07/30/2026",
+      "venue": "The Idiot Box (Headlining)",
+      "city": "Greensboro, NC",
+      "ticket_link": "https://www.eventbrite.com/e/the-idiot-box-presents-ryan-cox-tickets-1990347193033",
+    },
+    {
+      "date": "07/20/2026",
+      "venue": "The Lab at Zanies (Nateland Live!)",
+      "city": "Nashville, TN",
+      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+    },
+    {
+      "date": "07/18/2026",
+      "venue": "Don't Tell (Headlining)",
+      "city": "Hendersonville, NC",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-17784/",
+    },
+    # { "date": "07/17/2026", "venue": "Cultura" },
+    {
+      "date": "07/11/2026",
+      "venue": "Don't Tell (Headlining)",
+      "city": "Pittsburgh, PA",
+      "ticket_link": "https://www.donttellcomedy.com/shows/pittsburgh-19683/",
+    },
+    {
+      "date": "07/10/2026",
+      "venue": "Don't Tell (Headlining)",
+      "city": "Pittsburgh, PA",
+      "ticket_link": "https://www.donttellcomedy.com/shows/pittsburgh-19829/",
+    },
+    {
+      "date": "07/03/2026",
+      "venue": "Don't Tell",
+      ticket_link: "https://www.donttellcomedy.com/shows/asheville-19950/",
+    },
+    # {
+    #   "date": "07/02/2026",
+    #   "venue": "Antidote",
+    #   "ticket_link": "https://www.eventbrite.com/e/modelface-comedy-presents-founding-farters-tickets-1991671305489?aff=oddtdtcreator",
+    # },
+    { "date": "06/27/2026", "venue": "Private Wedding" },
+    {
+      "date": "06/26/2026",
+      "venue": "Don't Tell",
+      "city": "West Asheville, NC",
+      ticket_link: "https://www.donttellcomedy.com/shows/asheville-19395/",
+    },
+    # {
+    #   "date": "06/21/2026",
+    #   "venue": "RAD Brewing Co.",
+    #   ticket_link: "https://www.eventbrite.com/e/dad-jokes-fathers-day-comedy-showcase-tickets-1988981215357?aff=oddtdtcreator",
+    # },
+    {
+      "date": "05/30/2026",
+      "venue": "Highlander's Grill And Tavern",
+      "city": "Banner Elk, NC",
+    },
+    { "date": "05/29/2026", "venue": "Noble Cider" },
+    {
+      "date": "05/16/2026",
+      "venue": "Don't Tell",
+      "city": "Tri-Cities, TN",
+      ticket_link: "https://www.donttellcomedy.com/shows/tricities-tn-beff69c5/",
+    },
+    {
+      "date": "04/25/2026",
+      "venue": "Little Magic Bar",
+      "city": "Johnson City, TN",
+    },
+    {
+      "date": "04/17/2026",
+      "venue": "Mars Theatre Brewing Co.",
+      city: "Mars Hill, NC",
+      ticket_link: "https://www.eventbrite.com/e/comedy-show-tickets-1983198459980",
+    },
+    {
+      "date": "04/09/2026",
+      "venue": "The Cliffs at Glassy (Headlining)",
+      "city": "Landrum, SC",
+    },
+    {
+      "date": "03/28/2026",
+      "venue": "Don't Tell",
+      ticket_link: "https://www.donttellcomedy.com/shows/asheville-17432/",
+    },
+    { "date": "03/22/2026", "venue": "Martha's Cafe", "city": "Arbutus, MD" },
+    {
+      "date": "03/21/2026",
+      "venue": "Comedy Zone",
+      "city": "Harrisburg, PA",
+      ticket_link: "https://www.eventbrite.com/e/coleman-green-and-ryan-cox-saturday-8pm-tickets-1980237825643",
+    },
+    {
+      "date": "03/20/2026",
+      "venue": "Comedy Zone",
+      "city": "Harrisburg, PA",
+      ticket_link: "https://www.eventbrite.com/e/coleman-green-and-ryan-cox-friday-815pm-tickets-1980237703277",
+    },
+    {
+      "date": "03/13/2026",
+      "venue": "The Wallace Theatre (Headlining)",
+      "city": "Johnson City, TN",
+      "ticket_link": "https://wallacetheatre.com/tickets/246",
+    },
+    {
+      "date": "02/21/2026",
+      "venue": "Ginger's Revenge",
+      "ticket_link": "https://www.eventbrite.com/e/modelface-comedy-presets-gluten-free-comedy-at-gingers-revenge-tickets-1411456908609?aff=oddtdtcreator",
+    },
+    {
+      "date": "02/20/2026",
+      "venue": "Don't Tell",
+      "city": "Hendersonville, NC",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+    },
+    {
+      "date": "02/11/2026",
+      "venue": "Pulp (Valentine's Picture Show)",
+      #"ticket_link": "https://wallacetheatre.com/tickets/246",
+    },
+    {
+      "date": "02/07/2025",
+      "venue": "Don't Tell",
+      "city": "Tri-Cities, TN",
+      "ticket_link": "https://www.donttellcomedy.com/shows/tricities-tn-2753caff/",
+    },
+    {
+      "date": "02/06/2026",
+      "venue": "Highland Creek's Player's Grill",
+      "city": "Charlotte, NC",
+    },
+    # {
+    #   "date": "02/05/2026",
+    #   "venue": "Ginger's Revenge (First Jokes Show)",
+    #   ticket_link: "https://www.eventbrite.com/e/modelface-comedy-presents-first-jokes-tickets-1978015661089",
+    # },
+    {
+      "date": "01/22/2026",
+      "venue": "Peach St Grille (Headlining)",
+      "city": "Tellico Plains, TN",
+      ticket_link: "https://www.eventbrite.com/e/tellico-plains-very-own-comedy-show-tickets-1980090971398",
+    },
+    {
+      "date": "01/17/2026",
+      "venue": "Ginger's Revenge",
+      "ticket_link": "https://www.eventbrite.com/e/modelface-comedy-presets-gluten-free-comedy-at-gingers-revenge-tickets-1411455935699?aff=oddtdtcreator",
+    },
+    {
+      "date": "01/10/2026",
+      "venue": "Sobar Recovery Hub",
+      "city": "Anderson, SC",
+    },
+    {
+      "date": "01/09/2026",
+      "venue": "Shakedown Kava Lounge (Headlining)",
+      "city": "Hendersonville, NC",
+    },
+    {
+      "date": "01/07/2026",
+      "venue": "The Evening Muse (Headlining)",
+      "city": "Charlotte, NC",
+      "ticket_link": "https://www.eventbrite.com/e/home-planet-comedy-ryan-cox-with-makenzie-manent-paul-snyder-tickets-1965327111295",
+    },
+
 
     # 2025 Shows
+    # TODO: Copy rest of the 2025 Oct, Nov, Dec shows here from git history if they're there
     { "date": "10/03/2025", "venue": "The Foundry" },
     { "date": "10/05/2025", "venue": "RAD Brewing" },
     { "date": "10/02/2025", "venue": "Antidote Cocktail Lounge" },
