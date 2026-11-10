@@ -265,9 +265,39 @@ showObjects:
 
 
     # 2025 Shows
-    # TODO: Copy rest of the 2025 Oct, Nov, Dec shows here from git history if they're there
-    { "date": "10/03/2025", "venue": "The Foundry" },
+    {
+      "date": "12/20/2025",
+      "venue": "Mars Theatre (Headlining)",
+      "city": "Mars Hill, NC",
+      "ticket_link": "https://www.eventbrite.com/e/stand-up-comedy-show-tickets-1964369262343",
+    },
+    {
+      "date": "12/03/2025",
+      "venue": "Swanson’s Warehouse (Headlining)",
+      "city": "Greenville, SC",
+    },
+    { "date": "11/30/2025", "venue": "Sierra Nevada (Afternoon Show)" },
+    { "date": "11/30/2025", "venue": "RAD Brewing" },
+    { "date": "11/29/2025", "venue": "Ginger's Revenge" },
+    { "date": "11/15/2025", "venue": "Ginger's Revenge" },
+    {
+      "date": "11/14/2025",
+      "venue": "Lookout Brewing Company (Headlining)",
+      "city": "Black Mountain, NC",
+    },
+     { "date": "11/07/2025", "venue": "Burger Bar (Headlining)" },
+    {
+      "date": "11/01/2025",
+      "venue": "Blue Ridge Comedy Club (Headlining)",
+      "city": "Bristol, TN",
+    },
+   {
+      "date": "10/29/2025",
+      "venue": "Old Mill Brewpub (Headlining)",
+      "city": "Lexington, SC",
+    },
     { "date": "10/05/2025", "venue": "RAD Brewing" },
+    { "date": "10/03/2025", "venue": "The Foundry" },
     { "date": "10/02/2025", "venue": "Antidote Cocktail Lounge" },
     { "date": "09/20/2025", "venue": "Ginger's Revenge" },
     { "date": "09/14/2025", "venue": "RAD Brewing" },
