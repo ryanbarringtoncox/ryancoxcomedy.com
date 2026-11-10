@@ -1,11 +1,29 @@
 # Don't oversaturate AVL by posting every show. Save for headlining gigs, etc.
 showObjects: [
+    {
+      "date": "03/20/2026",
+      "venue": "Don't Tell",
+      "city": "Hendersonville, NC (Headlining)",
+      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-17787/",
+    },
+    {
+      "date": "01/09/2027",
+      "venue": "Star Spangled Taproom #2",
+      "city": "Clarksville, TN",
+      #"ticket_link": "https://www.nextstopcomedy.com/events/the-grape-ale-2026-09-12",
+    },
+    {
+      "date": "01/08/2027",
+      "venue": "Christopher's Eats (Headlining)",
+      "city": "Huntington, WV",
+      #"ticket_link": "https://www.nextstopcomedy.com/events/the-grape-ale-2026-09-12",
+    },
     { "date": "12/30/2026", "venue": "Grove Park Inn" },
     {
       "date": "11/21/2026",
       "venue": "The Lab at Zanies",
       "city": "Nashville, TN",
-      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-16393/",
+      "ticket_link": "https://www.etix.com/ticket/p/32297399/zanies-comedy-allstars-nashville-the-lab-at-zanies?partner_id=100&_gl=1*1ypue5c*_ga*ODkzNjUxMjQwLjE3OTQzNDcxMzI.*_ga_76DGCEXM0E*czE3OTQzNDcxMzEkbzEkZzEkdDE3OTQzNDcxMzgkajUzJGwwJGg0MTAyNTY3MzQ.*_gcl_au*MTk0OTM5OTIxNy4xNzk0MzQ3MTMy*_ga_MZXSS2FQDS*czE3OTQzNDcxMzEkbzEkZzEkdDE3OTQzNDcxMzgkajUzJGwwJGgxMDY4MjE2ODkz",
     },
     {
       "date": "11/20/2026",
