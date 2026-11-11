@@ -2,13 +2,13 @@
 showObjects: [
     {
       "date": "11/13/2026",
-      "venue": "Don't Tell (Late Show)",
-      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-20635/",
+      "venue": "Don't Tell (Early Show)",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-20634/",
     },
     {
       "date": "11/13/2026",
-      "venue": "Don't Tell (Early Show)",
-      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-20634/",
+      "venue": "Don't Tell (Late Show)",
+      "ticket_link": "https://www.donttellcomedy.com/shows/asheville-20635/",
     },
     {
       "date": "11/20/2026",
