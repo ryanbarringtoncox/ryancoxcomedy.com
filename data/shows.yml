@@ -22,6 +22,7 @@ showObjects: [
       "city": "Nashville, TN",
       "ticket_link": "https://www.etix.com/ticket/p/32297399/zanies-comedy-allstars-nashville-the-lab-at-zanies?partner_id=100&_gl=1*1ypue5c*_ga*ODkzNjUxMjQwLjE3OTQzNDcxMzI.*_ga_76DGCEXM0E*czE3OTQzNDcxMzEkbzEkZzEkdDE3OTQzNDcxMzgkajUzJGwwJGg0MTAyNTY3MzQ.*_gcl_au*MTk0OTM5OTIxNy4xNzk0MzQ3MTMy*_ga_MZXSS2FQDS*czE3OTQzNDcxMzEkbzEkZzEkdDE3OTQzNDcxMzgkajUzJGwwJGgxMDY4MjE2ODkz",
     },
+    { "date": "12/07/2026", "venue": "Bebop Bottle Shop (Headlining)" },
     { "date": "12/30/2026", "venue": "Grove Park Inn" },
     {
       "date": "01/08/2027",
@@ -36,7 +37,13 @@ showObjects: [
       #"ticket_link": "https://www.nextstopcomedy.com/events/the-grape-ale-2026-09-12",
     },
     {
-      "date": "03/20/2026",
+      "date": "03/05/2027 - 03/07/2027",
+      "venue": "West End Comedy Fest",
+      "city": "Atlanta, GA",
+      #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-17787/",
+    },
+    {
+      "date": "03/20/2027",
       "venue": "Don't Tell (Headlining)",
       "city": "Hendersonville, NC",
       #"ticket_link": "https://www.donttellcomedy.com/shows/asheville-17787/",
