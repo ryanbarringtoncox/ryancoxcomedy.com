@@ -1,6 +1,8 @@
 showObjects:
   - date: 12/30/2026
     venue: Grove Park Inn
+  - date: 12/07/2026
+    venue: Bebop Bottle Shop (Headlining)
   - date: 11/21/2026
     venue: The Lab at Zanies
     city: Nashville, TN
@@ -9,11 +11,8 @@ showObjects:
     venue: Venue 220 (Headlining)
     city: Pulaski, TN
   - date: 11/13/2026
-    venue: Don't Tell (Late Show)
+    venue: Don't Tell
     ticket_link: https://www.donttellcomedy.com/shows/asheville-20635/
-  - date: 11/13/2026
-    venue: Don't Tell (Early Show)
-    ticket_link: https://www.donttellcomedy.com/shows/asheville-20634/
   - date: 11/08/2026
     venue: RAD Brewing Co. (Ryan Ryan Ryan Show)
     ticket_link: https://www.eventbrite.com/e/rad-comedy-ryan-ryan-ryan-tickets-2001615574064?aff=oddtdtcreator
